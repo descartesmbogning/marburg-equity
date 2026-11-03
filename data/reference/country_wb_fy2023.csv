@@ -1,0 +1,82 @@
+country,wb_region,wb_income,africa,african_subregion
+Afghanistan,South Asia,Low income,0,
+Angola,Sub-Saharan Africa,Lower middle income,1,Central Africa
+Argentina,Latin America & Caribbean,Upper middle income,0,
+Australia,East Asia & Pacific,High income,0,
+Austria,Europe & Central Asia,High income,0,
+Bangladesh,South Asia,Lower middle income,0,
+Belgium,Europe & Central Asia,High income,0,
+Belize,Latin America & Caribbean,Upper middle income,0,
+Brazil,Latin America & Caribbean,Upper middle income,0,
+Bulgaria,Europe & Central Asia,Upper middle income,0,
+Burkina Faso,Sub-Saharan Africa,Low income,1,West Africa
+Canada,North America,High income,0,
+China,East Asia & Pacific,Upper middle income,0,
+Colombia,Latin America & Caribbean,Upper middle income,0,
+Congo Republic,Sub-Saharan Africa,Lower middle income,1,Central Africa
+Costa Rica,Latin America & Caribbean,Upper middle income,0,
+Cote d'Ivoire,Sub-Saharan Africa,Lower middle income,1,West Africa
+Croatia,Europe & Central Asia,High income,0,
+Czechia,Europe & Central Asia,High income,0,
+DR Congo,Sub-Saharan Africa,Low income,1,Central Africa
+Denmark,Europe & Central Asia,High income,0,
+Ecuador,Latin America & Caribbean,Upper middle income,0,
+Egypt,Middle East & North Africa,Lower middle income,1,North Africa
+Finland,Europe & Central Asia,High income,0,
+France,Europe & Central Asia,High income,0,
+Gabon,Sub-Saharan Africa,Upper middle income,1,Central Africa
+Germany,Europe & Central Asia,High income,0,
+Ghana,Sub-Saharan Africa,Lower middle income,1,West Africa
+Greece,Europe & Central Asia,High income,0,
+Guinea,Sub-Saharan Africa,Low income,1,West Africa
+Honduras,Latin America & Caribbean,Lower middle income,0,
+Hungary,Europe & Central Asia,High income,0,
+India,South Asia,Lower middle income,0,
+Indonesia,East Asia & Pacific,Lower middle income,0,
+Iran,Middle East & North Africa,Lower middle income,0,
+Iraq,Middle East & North Africa,Upper middle income,0,
+Israel,Middle East & North Africa,High income,0,
+Italy,Europe & Central Asia,High income,0,
+Japan,East Asia & Pacific,High income,0,
+Jordan,Middle East & North Africa,Upper middle income,0,
+Kazakhstan,Europe & Central Asia,Upper middle income,0,
+Kenya,Sub-Saharan Africa,Lower middle income,1,East Africa
+Lebanon,Middle East & North Africa,Lower middle income,0,
+Malawi,Sub-Saharan Africa,Low income,1,Southern Africa
+Mali,Sub-Saharan Africa,Low income,1,West Africa
+Morocco,Middle East & North Africa,Lower middle income,1,North Africa
+Nepal,South Asia,Lower middle income,0,
+Netherlands,Europe & Central Asia,High income,0,
+New Zealand,East Asia & Pacific,High income,0,
+Nigeria,Sub-Saharan Africa,Lower middle income,1,West Africa
+Norway,Europe & Central Asia,High income,0,
+Pakistan,South Asia,Lower middle income,0,
+Palestine,Middle East & North Africa,Lower middle income,0,
+Panama,Latin America & Caribbean,High income,0,
+Peru,Latin America & Caribbean,Upper middle income,0,
+Philippines,East Asia & Pacific,Lower middle income,0,
+Poland,Europe & Central Asia,High income,0,
+Portugal,Europe & Central Asia,High income,0,
+Russia,Europe & Central Asia,Upper middle income,0,
+Saudi Arabia,Middle East & North Africa,High income,0,
+Senegal,Sub-Saharan Africa,Lower middle income,1,West Africa
+Serbia,Europe & Central Asia,Upper middle income,0,
+Sierra Leone,Sub-Saharan Africa,Low income,1,West Africa
+Singapore,East Asia & Pacific,High income,0,
+Slovakia,Europe & Central Asia,High income,0,
+South Africa,Sub-Saharan Africa,Upper middle income,1,Southern Africa
+South Korea,East Asia & Pacific,High income,0,
+Spain,Europe & Central Asia,High income,0,
+Sweden,Europe & Central Asia,High income,0,
+Switzerland,Europe & Central Asia,High income,0,
+Tanzania,Sub-Saharan Africa,Lower middle income,1,East Africa
+Thailand,East Asia & Pacific,Upper middle income,0,
+Türkiye,Europe & Central Asia,Upper middle income,0,
+Uganda,Sub-Saharan Africa,Low income,1,East Africa
+Ukraine,Europe & Central Asia,Lower middle income,0,
+United Arab Emirates,Middle East & North Africa,High income,0,
+United Kingdom,Europe & Central Asia,High income,0,
+United States,North America,High income,0,
+Venezuela,Latin America & Caribbean,Not classified,0,
+Vietnam,East Asia & Pacific,Lower middle income,0,
+Zambia,Sub-Saharan Africa,Low income,1,Southern Africa

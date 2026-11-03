@@ -1,0 +1,7 @@
+# Licensed Web of Science records and personal data (author names) are never committed
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

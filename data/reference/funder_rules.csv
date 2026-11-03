@@ -1,0 +1,55 @@
+pattern,funder_group,funder_country,funder_type
+National Institute of Allergy|NIAID,US NIH (NIAID),United States,Government
+National Institutes of Health|\bNIH\b|National Cancer Institute|NIGMS|NATIONAL INSTITUTE OF GENERAL|Fogarty|NCRR|National Center for Research Resources|National Heart|National Institute of,US NIH (other institutes),United States,Government
+Defense Threat Reduction|\bDTRA\b|Department of Defense|Department of the Defense|\bDOD\b|JSTO|Medical Research and Material|Materiel Command|USAMRIID|US Army|U\.S\. Army|United States Army|Transformational Medical|Joint Program Executive|Medical Countermeasure Systems|DARPA|Defense Advanced,US Department of Defense,United States,Government (defence)
+Biomedical Advanced Research|BARDA|Assistant Secretary for Preparedness|\bASPR\b,US HHS (BARDA / ASPR),United States,Government
+Centers for Disease Control|\bCDC\b,US CDC,United States,Government
+Homeland Security,US Homeland Security,United States,Government (defence)
+Department of Energy|\bDOE\b,US Department of Energy,United States,Government
+National Science Foundation \(NSF\)|^NSF|\bNSF\(,US National Science Foundation,United States,Government
+Department of Health (&|and) Human Services|\bHHS\b,US HHS (other),United States,Government
+Food and Drug Administration|\bFDA\b,US FDA,United States,Government
+Burroughs Wellcome,Burroughs Wellcome Fund,United States,Philanthropy
+Howard Hughes,Howard Hughes Medical Institute,United States,Philanthropy
+Gates Foundation|Gates Found,Bill & Melinda Gates Foundation,United States,Philanthropy
+Skaggs,Skaggs Institute,United States,Philanthropy
+Battelle,Battelle Memorial Institute,United States,Private non-profit
+Wellcome,Wellcome Trust,United Kingdom,Philanthropy
+Medical Research Council|\bMRC\b|UK Research|UKRI|Biotechnology and Biological Sciences|BBSRC|Department of Health and Social Care|UK Vaccine Network|Public Health England|UK Health Security,UK government,United Kingdom,Government
+Deutsche Forschungsgemeinschaft|German Research Foundation|\bDFG\b|Schwerpunktprogramm|Sonderforschungsbereich,German Research Foundation (DFG),Germany,Government
+Federal Ministry of Education|\bBMBF\b|German Center for Infection|German Centre for Infection|\bDZIF\b|Bundeswehr|Leibniz|Robert Koch,German government (other),Germany,Government
+Grants-in-Aid|KAKENHI|Japan Society for the Promotion|\bJSPS\b|Ministry of Education..?Culture|\bMEXT\b|J-GRID|Japan Initiative for Global|Japan Agency for Medical|\bAMED\b|Agency for Medical Research and Development|Ministry of Health..?Lab|Japan International Cooperation|\bJICA\b|Japan Science and Technology|\bJST\b,Japanese government,Japan,Government
+Takeda|Uehara|Suzuken|Naito|Mochida|Japan .*Foundation,Japanese foundations,Japan,Philanthropy
+National Natural Science Foundation of China|NSFC|National Key Research and Development Program of China|Chinese Academy|China Scholarship|Fundamental Research Funds for the Central|National Science and Technology Major Project|Ministry of Science and Technology of China,Chinese government,China,Government
+Canadian Institutes of Health|\bCIHR\b|Public Health Agency of Canada|\bPHAC\b|National Microbiology Laboratory|Natural Sciences and Engineering Research Council|Canada,Canadian government,Canada,Government
+Russian Science Foundation|Russian Foundation|Ministry of Science and Higher Education of the Russian|Russian Federation,Russian government,Russia,Government
+French National Research Agency|\bANR\b|\bDGA\b|INSERM|Institut Pasteur|Aix-Marseille|IHU|Fondation Merieux|France,French public funders,France,Government
+European Commission|European Union|Horizon 2020|Seventh Framework|FP7|European Research Council|\bERC\b|Innovative Medicines Initiative|EDCTP|European and Developing Countries,European Union,European Union,Multilateral
+World Health Organization|\bWHO\b,World Health Organization,International,Multilateral
+CEPI|Coalition for Epidemic,CEPI,International,Multilateral
+NEPAD|African Union|African Academy|Africa CDC|South African Medical Research|National Research Foundation..?South Africa|National Research Foundation of South Africa|Poliomyelitis Research Foundation|National Health Laboratory Service|Uganda|Nigeria|Kenya|Ghana|Tanzania|Zambia|Gabon|Senegal|Sierra Leone|Congo,African funders,Africa,Government
+Singapore|National Research Foundation..?Singapore,Singapore government,Singapore,Government
+Swiss National Science|Switzerland,Swiss funders,Switzerland,Government
+Netherlands|Dutch|ZonMw,Dutch funders,Netherlands,Government
+Korea,Korean funders,South Korea,Government
+Australian|NHMRC|Australia,Australian funders,Australia,Government
+Italian|Italy|Ministero,Italian funders,Italy,Government
+Sweden|Swedish|Vetenskapsr,Swedish funders,Sweden,Government
+India|Indian Council|Department of Biotechnology,Indian funders,India,Government
+Saudi|King Abdulaziz|King Saud,Saudi funders,Saudi Arabia,Government
+Agency for International Development|USAID|PREDICT,US Agency for International Development,United States,Government
+Biodefense Center|Defense Biological|Walter Reed|Military|Navy|Air Force|Biological Product Assurance,US Department of Defense,United States,Government (defence)
+Texas Biomedical|National Primate Research|Regional Biocontainment,US NIH (other institutes),United States,Government
+Bill AMP|Bill &amp;,Bill & Melinda Gates Foundation,United States,Philanthropy
+\bNIHR\b|National Institute for Health Research|International Development\b|DFID|Economic and Social Research|Foreign.*Commonwealth,UK government,United Kingdom,Government
+China|Chinese|Shenzhen|\bCAS\b|CAMS|Guangdong|Beijing|Shanghai,Chinese government,China,Government
+South Africa|Communicable Diseases|AFENET|African Field|ECOWAS|Africa,African funders,Africa,Government
+DAAD|Akademischer|Bundesministerium|Stiftung|Helmholtz|Max Planck,German government (other),Germany,Government
+Daiichi|Bio-oriented|Hokkaido|Tokyo|Osaka|Kyoto|Nagasaki,Japanese foundations,Japan,Philanthropy
+Emergent|Bristol|Bayer|VGXI|EFPIA|Inovio|Moderna|Vaxart|Profectus|Chimerix|SIGA|BioCryst|Arbutus|Tekmira,Industry,Unknown,Industry
+Food and Agriculture Organization|\bFAO\b|United Nations|UNICEF|World Bank,UN agencies,International,Multilateral
+FAPESP|Brazil,Brazilian funders,Brazil,Government
+FWO|Flanders|KU Leuven|Belgi,Belgian funders,Belgium,Government
+European Cooperation in Science|COST\)|Regional Development|EFRE|Directorate-General,European Union,European Union,Multilateral
+Pharma|Inc\b|Inc\.|LLC|Ltd|GmbH|Corporation|Company|Laboratories|Therapeutics|Biosciences|Biotech|Mapp|Gilead|Merck|Janssen|Sanofi|GlaxoSmithKline|GSK|Pfizer|Novartis|Roche|Takeda Pharmaceutical,Industry,Unknown,Industry
+University|Universite|Universit|College|School of Medicine|Institute of Technology|Hospital,Universities and hospitals,Unknown,Academic

@@ -1,0 +1,4 @@
+,IRR,lo,hi,p
+"C(pair, Treatment('M-first / M-last'))[T.F-first / F-last]",0.763,0.591,0.985,0.038
+"C(pair, Treatment('M-first / M-last'))[T.F-first / M-last]",0.899,0.763,1.059,0.203
+"C(pair, Treatment('M-first / M-last'))[T.M-first / F-last]",1.314,1.01,1.71,0.042

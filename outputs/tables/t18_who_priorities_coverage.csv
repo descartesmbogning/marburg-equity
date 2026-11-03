@@ -1,0 +1,13 @@
+code,label,n,k,pct,ci_lo,ci_hi,pct_2008_2015,pct_2016_2023,pct_african_led,pct_us_defence_funded
+P1,Reservoirs and zoonotic spillover,684,152,22.2,19.3,25.5,21.0,23.2,56.1,17.3
+P2,Diagnostics,684,181,26.5,23.3,29.9,25.0,27.6,36.8,25.6
+P3,Epidemiology and surveillance,684,315,46.1,42.3,49.8,35.3,54.4,70.2,36.8
+P4,Biomarkers and pathogenesis,684,240,35.1,31.6,38.7,40.0,31.2,15.8,47.4
+P5,Animal models,684,238,34.8,31.3,38.4,35.7,34.1,14.0,48.9
+P6,Medical countermeasures,684,411,60.1,56.4,63.7,57.0,62.5,26.3,76.7
+P7,Supportive clinical care and infection prevention,684,36,5.3,3.8,7.2,5.0,5.5,10.5,1.5
+P8,Research during outbreaks (trials),684,27,3.9,2.7,5.7,3.7,4.2,3.5,5.3
+P9,Social sciences and community engagement,684,49,7.2,5.5,9.3,7.7,6.8,21.1,3.0
+P10,Collaboration and capacity strengthening,684,41,6.0,4.4,8.0,5.3,6.5,19.3,0.8
+B1,Basic molecular virology (not a WHO priority),684,408,59.6,55.9,63.3,61.0,58.6,43.9,64.7
+B2,Biosecurity and biodefence (not a WHO priority),684,62,9.1,7.1,11.5,12.3,6.5,3.5,11.3

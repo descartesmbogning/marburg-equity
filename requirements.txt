@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+xlrd>=2.0
+openpyxl>=3.1
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+gensim>=4.3
+matplotlib>=3.8
+country_converter>=1.2

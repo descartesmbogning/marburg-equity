@@ -1,0 +1,44 @@
+funder_group,funder_country,funder_type,papers,pct_of_funded
+US NIH (other institutes),United States,Government,175,31.5
+Other / unclassified,Unknown,Unknown,144,25.9
+US NIH (NIAID),United States,Government,132,23.8
+US Department of Defense,United States,Government (defence),128,23.1
+Universities and hospitals,Unknown,Academic,48,8.6
+Japanese government,Japan,Government,36,6.5
+German Research Foundation (DFG),Germany,Government,35,6.3
+Industry,Unknown,Industry,31,5.6
+Chinese government,China,Government,31,5.6
+Canadian government,Canada,Government,31,5.6
+European Union,European Union,Multilateral,23,4.1
+US CDC,United States,Government,23,4.1
+German government (other),Germany,Government,21,3.8
+UK government,United Kingdom,Government,20,3.6
+African funders,Africa,Government,18,3.2
+Japanese foundations,Japan,Philanthropy,14,2.5
+Battelle Memorial Institute,United States,Private non-profit,13,2.3
+US Department of Energy,United States,Government,12,2.2
+Burroughs Wellcome Fund,United States,Philanthropy,11,2.0
+Wellcome Trust,United Kingdom,Philanthropy,11,2.0
+US National Science Foundation,United States,Government,10,1.8
+US Agency for International Development,United States,Government,10,1.8
+World Health Organization,International,Multilateral,9,1.6
+French public funders,France,Government,8,1.4
+US HHS (BARDA / ASPR),United States,Government,7,1.3
+US HHS (other),United States,Government,7,1.3
+Russian government,Russia,Government,6,1.1
+Skaggs Institute,United States,Philanthropy,5,0.9
+US Homeland Security,United States,Government (defence),5,0.9
+Singapore government,Singapore,Government,4,0.7
+Italian funders,Italy,Government,4,0.7
+Belgian funders,Belgium,Government,4,0.7
+Bill & Melinda Gates Foundation,United States,Philanthropy,4,0.7
+UN agencies,International,Multilateral,3,0.5
+Dutch funders,Netherlands,Government,3,0.5
+Saudi funders,Saudi Arabia,Government,2,0.4
+Korean funders,South Korea,Government,2,0.4
+Indian funders,India,Government,2,0.4
+Howard Hughes Medical Institute,United States,Philanthropy,2,0.4
+CEPI,International,Multilateral,1,0.2
+Brazilian funders,Brazil,Government,1,0.2
+Australian funders,Australia,Government,1,0.2
+Swedish funders,Sweden,Government,1,0.2

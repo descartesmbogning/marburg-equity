@@ -1,0 +1,4 @@
+model,n,IRR_funded,lo,hi,p,IRR_oa
+"M1 naive (raw citations, no controls)",684,1.16,0.9,1.48,0.251,
+M2 + year,684,1.28,1.04,1.57,0.0188,
+M3 full,684,1.07,0.87,1.33,0.522,1.87

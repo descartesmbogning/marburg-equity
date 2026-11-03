@@ -1,0 +1,13 @@
+code,label,who_priority_no,regex
+P1,Reservoirs and zoonotic spillover,1,\bbats?\b|rousettus|reservoir|spillover|spill-over|zoono|\becolog|\bcaves?\b|\bmines?\b|wildlife|egyptian fruit
+P2,Diagnostics,2,diagnos|\bassays?\b|rt-pcr|\bqpcr\b|\bpcr\b|point-of-care|rapid test|\belisa\b|lateral flow|detection of
+P3,Epidemiology and surveillance,3,epidemiolog|surveillance|outbreak|transmission|case fatality|contact tracing|seroprevalence|risk factor
+P4,Biomarkers and pathogenesis,4,pathogenesis|pathogenic|biomarker|cytokine|interferon|\binnate\b|host response|immune response|pathology|\blesions?\b|coagulopath|immunopatholog
+P5,Animal models,5,non-?human primate|\bnhps?\b|macaque|cynomolgus|rhesus|guinea pigs?|\bmice\b|\bmouse\b|hamster|ferret|animal model
+P6,Medical countermeasures,6,vaccin|monoclonal|\bmabs?\b|antiviral|inhibitor|\bdrugs?\b|remdesivir|favipiravir|therapeutic|treatment|post-exposure|prophyla|countermeasure
+P7,Supportive clinical care and infection prevention,7,clinical management|supportive care|patient care|intensive care|clinical features|clinical presentation|infection prevention|health ?care workers?|personal protective|nosocomial|clinical course|case management
+P8,Research during outbreaks (trials),8,clinical trial|ring vaccination|\bphase (1|2|3|i|ii|iii)\b|randomi[sz]ed|expanded access|trial protocol|compassionate use
+P9,Social sciences and community engagement,9,communit|social|stigma|anthropolog|behavio|perception|awareness|knowledge..?attitude|risk communication|\btrust\b|qualitative
+P10,Collaboration and capacity strengthening,10,capacity building|capacity strengthening|collaborat|\bnetworks? of\b|training program|laboratory capacity|preparedness|\bone health\b
+B1,Basic molecular virology (not a WHO priority),,\bvp(24|30|35|40)\b|nucleoprotein|glycoprotein|\bgp\b|replication|transcription|budding|genome|crystal structure|\bpolymerase\b|viral protein|entry|receptor|npc1
+B2,Biosecurity and biodefence (not a WHO priority),,biosecurity|biodefen|bioterror|biological weapon|select agent|biosafety|\bbsl-?4\b|category a

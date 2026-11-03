@@ -1,0 +1,18 @@
+,OR,lo,hi,p
+Intercept,0.0,0.0,22.672,0.059
+reg[T.Europe & Central Asia],1.301,0.86,1.968,0.213
+reg[T.East Asia & Pacific],0.403,0.207,0.785,0.008
+reg[T.Sub-Saharan Africa],0.559,0.236,1.324,0.186
+reg[T.Other],0.641,0.288,1.431,0.278
+C(topic_c)[T.Antiviral drugs and entry inhibitors],1.468,0.718,3.0,0.293
+C(topic_c)[T.Bat reservoirs and transmission],1.691,0.773,3.701,0.189
+C(topic_c)[T.Diagnostics and laboratory detection],1.56,0.72,3.382,0.26
+C(topic_c)[T.Filovirus disease overviews],0.458,0.2,1.048,0.065
+C(topic_c)[T.Genome replication and protein structure],0.857,0.315,2.33,0.762
+C(topic_c)[T.Innate immunity and interferon antagonism],0.92,0.327,2.59,0.874
+C(topic_c)[T.Outbreaks and public health risk],0.787,0.356,1.74,0.554
+C(topic_c)[T.Vaccines and animal challenge models],1.555,0.787,3.073,0.204
+C(topic_c)[T.Viral assembly and budding],2.087,0.977,4.458,0.058
+year,1.04,0.998,1.085,0.061
+log_auth,0.957,0.744,1.231,0.732
+review,1.033,0.619,1.723,0.902

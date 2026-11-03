@@ -1,0 +1,7 @@
+measure,n,k,pct,ci_lo,ci_hi,benchmark_mbaye_2019
+Any author from a study country,102,50,49.0,39.5,58.6,
+First author from a study country,102,26,25.5,18.0,34.7,
+Last author from a study country,102,24,23.5,16.4,32.6,
+Any African author,102,63,61.8,52.1,70.6,93.2
+First author African,102,30,29.4,21.4,38.9,49.8
+Last author African,102,29,28.4,20.6,37.8,41.3

@@ -1,0 +1,32 @@
+funder_country,last_author_region,papers
+United States,North America,322
+United States,Europe & Central Asia,22
+United States,East Asia & Pacific,16
+United States,Unknown,13
+United States,Sub-Saharan Africa,10
+Japan,East Asia & Pacific,26
+Japan,North America,6
+Japan,Europe & Central Asia,2
+Japan,Unknown,2
+Germany,Europe & Central Asia,40
+Germany,North America,2
+Germany,Sub-Saharan Africa,1
+Canada,North America,25
+Canada,East Asia & Pacific,3
+Canada,Sub-Saharan Africa,2
+Canada,Europe & Central Asia,1
+China,East Asia & Pacific,22
+China,North America,7
+China,Europe & Central Asia,2
+European Union,Europe & Central Asia,20
+European Union,Sub-Saharan Africa,2
+European Union,North America,1
+United Kingdom,Europe & Central Asia,12
+United Kingdom,North America,7
+United Kingdom,East Asia & Pacific,5
+United Kingdom,Sub-Saharan Africa,3
+United Kingdom,Unknown,1
+Africa,Sub-Saharan Africa,9
+Africa,North America,5
+Africa,Europe & Central Asia,2
+Africa,East Asia & Pacific,2

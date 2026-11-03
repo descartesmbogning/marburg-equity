@@ -1,0 +1,968 @@
+funder_raw,funder_group,funder_country,funder_type,papers
+NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,62
+National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,37
+Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),34
+"Grants-in-Aid for Scientific Research(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of ScienceGrants-in-Aid for Scientific Research (KAKENHI))",Japanese government,Japan,Government,19
+NIAID(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,18
+NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,16
+Deutsche Forschungsgemeinschaft(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,15
+Public Health Agency of Canada,Canadian government,Canada,Government,14
+National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,13
+National Natural Science Foundation of China(National Natural Science Foundation of China (NSFC)),Chinese government,China,Government,10
+National Institute of Allergy and Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,9
+NIAID NIH HHS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,9
+Battelle Memorial Institute,Battelle Memorial Institute,United States,Private non-profit,8
+Takeda Science Foundation(Takeda Science Foundation (TSF)),Japanese foundations,Japan,Philanthropy,7
+National Key Research and Development Program of China,Chinese government,China,Government,6
+Canadian Institutes of Health Research(Canadian Institutes of Health Research (CIHR)),Canadian government,Canada,Government,6
+Wellcome Trust(Wellcome TrustEuropean Commission),Wellcome Trust,United Kingdom,Philanthropy,6
+"Japan Society for the Promotion of Science(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,6
+NIH/NIAID(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,6
+"Ministry of Education, Culture, Sports, Science and Technology (MEXT)(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,6
+"Japan Initiative for Global Research Network on Infectious Diseases (J-GRID)(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,6
+"JSPS(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,6
+DOE Office of Science(United States Department of Energy (DOE)),US Department of Energy,United States,Government,6
+National Institute of Allergy and Infectious Diseases of the National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,5
+US Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),5
+Skaggs Institute for Chemical Biology,Skaggs Institute,United States,Philanthropy,5
+"Division of Intramural Research, NIAID, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,5
+European Union(European Commission),European Union,European Union,Multilateral,5
+HHS \ NIH \ National Institute of Allergy and Infectious Diseases (NIAID),US NIH (NIAID),United States,Government,5
+Albert Einstein College of Medicine,Universities and hospitals,Unknown,Academic,5
+"Department of the Defense, Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency)",US Department of Defense,United States,Government (defence),5
+Department of Health and Human Services,US HHS (other),United States,Government,5
+"Ministry of Health, Labor and Welfare of Japan(Ministry of Health, Labour and Welfare, Japan)",Japanese government,Japan,Government,5
+DTRA(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),5
+National Microbiology Laboratory of the Public Health Agency of Canada,Canadian government,Canada,Government,4
+Defense Threat Reduction Agency JSTO-CBD(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),4
+"Defense Threat Reduction Agency, Department of Defense(United States Department of DefenseDefense Threat Reduction Agency)",US Department of Defense,United States,Government (defence),4
+NSF(National Science Foundation (NSF)),US National Science Foundation,United States,Government,4
+"KAKENHI(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of ScienceGrants-in-Aid for Scientific Research (KAKENHI))",Japanese government,Japan,Government,4
+World Health Organization(World Health Organization),World Health Organization,International,Multilateral,4
+Poliomyelitis Research Foundation,African funders,Africa,Government,4
+Public Health Agency of Canada (PHAC),Canadian government,Canada,Government,4
+European Commission(European CommissionEuropean Commission Joint Research Centre),European Union,European Union,Multilateral,4
+"MEXT(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,4
+"Department of Health and Human Services, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,4
+Uehara Memorial Foundation(Uehara Memorial Foundation),Japanese foundations,Japan,Philanthropy,4
+"Japan Initiative for Global Research Network on Infectious Diseases(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,4
+MRC(UK Research & Innovation (UKRI)Medical Research Council UK (MRC)),UK government,United Kingdom,Government,4
+Schwerpunktprogramm,German Research Foundation (DFG),Germany,Government,3
+ANR(French National Research Agency (ANR)),French public funders,France,Government,3
+Chinese Academy of Sciences(Chinese Academy of Sciences),Chinese government,China,Government,3
+CIHR(Canadian Institutes of Health Research (CIHR)),Canadian government,Canada,Government,3
+Russian Science Foundation(Russian Science Foundation (RSF)),Russian government,Russia,Government,3
+Biomedical Advanced Research and Development Authority,US HHS (BARDA / ASPR),United States,Government,3
+Boston University,Universities and hospitals,Unknown,Academic,3
+US National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,3
+Japan International Cooperation Agency,Japanese government,Japan,Government,3
+NIAID Division of Clinical Research,US NIH (NIAID),United States,Government,3
+HHS \ National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,3
+Deutsche Forschungsgemeinschaft (DFG)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,3
+"Department of Health and Human Services, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,3
+Intramural CDC HHS,US CDC,United States,Government,3
+"Integrated Research Facility (NIAID, Division of Clinical Research)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,3
+Department of Defense(United States Department of Defense),US Department of Defense,United States,Government (defence),3
+DOD \ Defense Threat Reduction Agency (DTRA)(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),3
+German Research Foundation (DFG)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,3
+National Institutes of Health (USA)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,3
+"National Cancer Institute, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Cancer Institute (NCI))",US NIH (other institutes),United States,Government,3
+National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,3
+DFG(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,3
+Defense Threat Reduction Agency (DTRA)(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),3
+NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCES(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS)),US NIH (other institutes),United States,Government,3
+NIAID Division of Intramural Research(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,3
+Medical Research Council(UK Research & Innovation (UKRI)Medical Research Council UK (MRC)),UK government,United Kingdom,Government,3
+National Natural Science Foundation of China International Cooperation and Exchange Program,Chinese government,China,Government,3
+National Science and Technology Major Project,Chinese government,China,Government,3
+NIAID/NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,3
+Northeast Biodefense Center,US Department of Defense,United States,Government (defence),2
+USAMRIID,US Department of Defense,United States,Government (defence),2
+U.S. National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,2
+UK Department for International Development,UK government,United Kingdom,Government,2
+Suzuken Memorial Foundation,Japanese foundations,Japan,Philanthropy,2
+AMED Research Program on Emerging and Reemerging Infectious Diseases,Japanese government,Japan,Government,2
+Battelle Memorial Institute's prime contract,Battelle Memorial Institute,United States,Private non-profit,2
+Canadian Institutes of Health Research (CIHR)(Canadian Institutes of Health Research (CIHR)),Canadian government,Canada,Government,2
+Canadian Institutes of Health Research fellowship(Canadian Institutes of Health Research (CIHR)),Canadian government,Canada,Government,2
+Centers for Disease Control and Prevention's Viral Special Pathogens Branch(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,2
+Centers for Disease Control and Prevention (CDC)(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,2
+Research Facilities Improvement Program from the NCRR,US NIH (other institutes),United States,Government,2
+CAMS Innovation Fund for Medical Sciences,Chinese government,China,Government,2
+Public Health England (PHE),UK government,United Kingdom,Government,2
+Platform Project for Supporting Drug Discovery and Life Science Research (Basis for Supporting Innovative Drug Discovery and Life Science Research (BINDS)) from AMED,Japanese government,Japan,Government,2
+Purdue Pharmacy Live Cell Imaging Facility,Industry,Unknown,Industry,2
+"Singapore National Research Foundation(National Research Foundation, Singapore)",Singapore government,Singapore,Government,2
+"Research to Prevent Blindness, Inc.(Research to Prevent Blindness (RPB))",Industry,Unknown,Industry,2
+South African National Research Foundation(National Research Foundation - South Africa),African funders,Africa,Government,2
+Russian Foundation for Basic Research(Russian Foundation for Basic Research (RFBR)),Russian government,Russia,Government,2
+Sanming Project of Medicine in Shenzhen,Chinese government,China,Government,2
+Texas Biomedical Research Institute,US NIH (other institutes),United States,Government,2
+Transformational Medical Technologies program from the Department of Defense Chemical and Biological Defense program through the Defense Threat Reduction Agency (DTRA),US Department of Defense,United States,Government (defence),2
+Transformational Medical Technologies,US Department of Defense,United States,Government (defence),2
+"Soligenix, Inc.",Industry,Unknown,Industry,2
+Shenzhen Science and Technology Research and Development Project,Chinese government,China,Government,2
+Southwest National Primate Research Center,US NIH (other institutes),United States,Government,2
+World Health Organization (WHO)(World Health Organization),World Health Organization,International,Multilateral,2
+Bill & Melinda Gates Foundation(Bill & Melinda Gates FoundationCGIAR),Bill & Melinda Gates Foundation,United States,Philanthropy,2
+Burroughs Wellcome Fund(Burroughs Wellcome Fund),Burroughs Wellcome Fund,United States,Philanthropy,2
+Bio-oriented Technology Research Advancement Institution,Japanese foundations,Japan,Philanthropy,2
+US Department of Health and Human Services,US HHS (other),United States,Government,2
+US Defense Biological Product Assurance Office,US Department of Defense,United States,Government (defence),2
+NIGMS NIH HHS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS)),US NIH (other institutes),United States,Government,2
+"NIAID, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+"National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+National Eye Institute of the National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Eye Institute (NEI)),US NIH (other institutes),United States,Government,2
+China Postdoctoral Science Foundation(China Postdoctoral Science Foundation),Chinese government,China,Government,2
+DTRA grant,US Department of Defense,United States,Government (defence),2
+China Scholarship Council(China Scholarship Council),Chinese government,China,Government,2
+Daiichi Sankyo Foundation of Life Science,Japanese foundations,Japan,Philanthropy,2
+NHMRC(National Health and Medical Research Council (NHMRC) of Australia),UK government,United Kingdom,Government,2
+Medical Research and Material Command(United States Department of DefenseUnited States ArmyU.S. Army Medical Research & Materiel Command (USAMRMC)),US Department of Defense,United States,Government (defence),2
+DTRA project,US Department of Defense,United States,Government (defence),2
+National Institute for Communicable Diseases,African funders,Africa,Government,2
+NIH/NIAID Animal Models of Infectious Diseases (AMoID),US NIH (NIAID),United States,Government,2
+NIH from NIGMS,US NIH (other institutes),United States,Government,2
+NIH from NCATS,US NIH (other institutes),United States,Government,2
+NIH NIAID(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,2
+National Institute for Health Research (NIHR) Health Protection Research Unit in Emergency Preparedness and Response,UK government,United Kingdom,Government,2
+NIH Medical Scientist Training Grant(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,2
+"Ministry of Health, Labor, and Welfare of Japan(Ministry of Health, Labour and Welfare, Japan)",Japanese government,Japan,Government,2
+"Ministry of Health, Labour and Welfare of Japan(Ministry of Health, Labour and Welfare, Japan)",Japanese government,Japan,Government,2
+"National Institute of Allergy and Infectious Diseases, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+National University of Singapore(National University of Singapore),Singapore government,Singapore,Government,2
+National Science Foundation(National Science Foundation (NSF)),US National Science Foundation,United States,Government,2
+"National Institutes of Health, National Institute of Allergy and Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+National Key Research and Development Plan of China,Chinese government,China,Government,2
+National Key Program for Infectious Disease of China,Chinese government,China,Government,2
+Ontario Graduate Scholarship(Ontario Graduate Scholarship),Other / unclassified,Unknown,Unknown,2
+Office of the Assistant Secretary for Preparedness and Response,US HHS (BARDA / ASPR),United States,Government,2
+New Partnership for Africa's Development Planning and Coordinating Agency (NEPAD Agency),African funders,Africa,Government,2
+DGA-MRIS,French public funders,France,Government,2
+"National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+Nagasaki University,Japanese foundations,Japan,Philanthropy,2
+"Ministry of Education, Culture, Sports, Science and Technology of Japan(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,2
+Joint Science and Technology Office for Chemical and Biological Defense (JSTO-CBD) of the Defense Threat Reduction Agency (DTRA),US Department of Defense,United States,Government (defence),2
+Joint Science and Technology Office for Chemical and Biological Defense(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),2
+"Ministry of Education, Culture, Sports, Science, and Technology, Japan(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,2
+Intramural NIH HHS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,2
+"Intramural Research Program of the NIAID, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+DOE Office of Biological and Environmental Research(United States Department of Energy (DOE)),US Department of Energy,United States,Government,2
+"Department of Microbiology and Immunology, University of Texas Medical Branch at Galveston",Universities and hospitals,Unknown,Academic,2
+"Japan Society for the Promotion of Science (KAKENHI)(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of ScienceGrants-in-Aid for Scientific Research (KAKENHI))",Japanese government,Japan,Government,2
+"Laulima Government Solutions, LLC",Industry,Unknown,Industry,2
+Japan Agency for Medical Research and Development (AMED)(Japan Agency for Medical Research and Development (AMED)),Japanese government,Japan,Government,2
+Joint Usage/Research Center program of Institute for Frontier Life and Medical Sciences Kyoto University,Japanese foundations,Japan,Philanthropy,2
+Korea National Institute of Health/Korea Disease Control and Prevention Agency,US NIH (other institutes),United States,Government,2
+Innovate UK(UK Research & Innovation (UKRI)Innovate UK),UK government,United Kingdom,Government,2
+German Research Foundation(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,2
+Howard Hughes Medical Institute(Howard Hughes Medical Institute),Howard Hughes Medical Institute,United States,Philanthropy,2
+Investigators in the Pathogenesis of Infectious Diseases award from the Burroughs Wellcome Fund,Burroughs Wellcome Fund,United States,Philanthropy,2
+Investigators in the Pathogenesis of Infectious Disease award from the Burroughs Wellcome Fund,Burroughs Wellcome Fund,United States,Philanthropy,2
+"JSPS KAKENHI(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of ScienceGrants-in-Aid for Scientific Research (KAKENHI))",Japanese government,Japan,Government,2
+Intramural Research Program of the Vaccine Research Center(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,2
+Fundamental Research Funds for the Central Universities(Fundamental Research Funds for the Central Universities),Chinese government,China,Government,2
+"Fogarty International Center, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH Fogarty International Center (FIC))",US NIH (other institutes),United States,Government,2
+"Grant for Joint Research Project of the Institute of Medical Science, University of Tokyo",Japanese foundations,Japan,Philanthropy,2
+HHS \ NIH \ National Institute of General Medical Sciences (NIGMS),US NIH (other institutes),United States,Government,2
+"Global COE Program(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,2
+"Division of Intramural Research of the National Institute of Allergy and Infectious Diseases, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+Division of Intramural Research of the National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,2
+"Federal funds from the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services",US NIH (NIAID),United States,Government,2
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+"Division of Intramural Research (DIR), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,2
+Emergent BioSolutions,Industry,Unknown,Industry,2
+Agency for Medical Research and Development,Japanese government,Japan,Government,2
+Agence Nationale de la Recherche(French National Research Agency (ANR)),French public funders,France,Government,2
+Aix-Marseille Universite scholarship,French public funders,France,Government,2
+BMBF(Federal Ministry of Education & Research (BMBF)),German government (other),Germany,Government,2
+ANTIGONE,Other / unclassified,Unknown,Unknown,1
+'Interne Fondsen KU Leuven/Internal Funds KU Leuven' project,Belgian funders,Belgium,Government,1
+AMED,Japanese government,Japan,Government,1
+AMED CREST,Japanese government,Japan,Government,1
+AMED JPRIDE,Japanese government,Japan,Government,1
+AMED Japan Program for Infectious Diseases Research and Infrastructure,Japanese government,Japan,Government,1
+University of Maryland Baltimore Computer-Aided Drug Design Center,Universities and hospitals,Unknown,Academic,1
+University of Nebraska Medical Center,Universities and hospitals,Unknown,Academic,1
+University of Pennsylvania Research Foundation,Universities and hospitals,Unknown,Academic,1
+University of Pretoria,Universities and hospitals,Unknown,Academic,1
+University of Texas M. D. Anderson Cancer Center Protein Array and Analysis Core CPRIT grant,Universities and hospitals,Unknown,Academic,1
+University of Texas Medical Branch at Galveston,Universities and hospitals,Unknown,Academic,1
+University of Vienna Research Platform,Universities and hospitals,Unknown,Academic,1
+VGXI,Industry,Unknown,Industry,1
+Universidad Tecnologica de Pereira,Other / unclassified,Unknown,Unknown,1
+University Graduate School at Florida International University,Universities and hospitals,Unknown,Academic,1
+University Research Fellowship from the Royal Society(Royal Society of London),Universities and hospitals,Unknown,Academic,1
+University Research Foundation Award (Penn),Universities and hospitals,Unknown,Academic,1
+University of Alabama Birmingham under NIAID,US NIH (NIAID),United States,Government,1
+University of Georgia Graduate Assistantship through the Department of Pathology in the University of Georgia College of Veterinary Medicine,Universities and hospitals,Unknown,Academic,1
+"University of Georgia Graduate Assistantship through the Department of Pathology in the University of Georgia, College of Veterinary Medicine",Universities and hospitals,Unknown,Academic,1
+Beijing Key Laboratory of New Drug Mechanisms and Pharmacological Evaluation Study,Chinese government,China,Government,1
+Bev Mahfuz fund,Other / unclassified,Unknown,Unknown,1
+Bill & Melinda Gates Foundation(Bill & Melinda Gates Foundation),Bill & Melinda Gates Foundation,United States,Philanthropy,1
+Bill AMP,Bill & Melinda Gates Foundation,United States,Philanthropy,1
+Bairenjihua Program of the Chinese Academy of Sciences,Chinese government,China,Government,1
+"Basic Science Research Program through the National Research Foundation of Korea - Ministry of Education(Ministry of Education (MOE), Republic of KoreaNational Research Foundation of Korea)",Korean funders,South Korea,Government,1
+Basler,Other / unclassified,Unknown,Unknown,1
+US Defense Threat Reduction Agency (DTRA)(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+BioQual Inc. under NIAID,US NIH (NIAID),United States,Government,1
+Bioinformatics Center of Nanjing Agricultural University,Universities and hospitals,Unknown,Academic,1
+"Biomedical Research Council of Agency for Science, Technology and Research (A*STAR)(Agency for Science Technology & Research (A*STAR))",UK government,United Kingdom,Government,1
+"Biomedical Research Council of the Agency for Science, Technology, and Research (A*STAR)(Agency for Science Technology & Research (A*STAR))",UK government,United Kingdom,Government,1
+Biomedical Technology Research Center program of the National Institute of General Medical Sciences,US NIH (other institutes),United States,Government,1
+Biotechnology High Performance Computing Software Applications Institute (BHSAI),Industry,Unknown,Industry,1
+Bavaria Nordic GmbH,Industry,Unknown,Industry,1
+Bayer Global Ophthalmology Awards Program,Industry,Unknown,Industry,1
+United States Agency for International Development (USAID) Emerging Pandemic Threats PREDICT project(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+Bristol-Myers Squibb(Bristol-Myers Squibb),Industry,Unknown,Industry,1
+Bundesministerium fuer Bildung und Forschung (BiGRUDI),German government (other),Germany,Government,1
+Bundesministerium fur Bildung und Forschung(Federal Ministry of Education & Research (BMBF)),German government (other),Germany,Government,1
+Burroughs Welcome Fund(Burroughs Wellcome Fund),Burroughs Wellcome Fund,United States,Philanthropy,1
+Burroughs Wellcome Fund (BWF)(Burroughs Wellcome Fund),Burroughs Wellcome Fund,United States,Philanthropy,1
+Burroughs Wellcome Fund (Investigators in the Pathogenesis of Infectious Disease award)(Burroughs Wellcome Fund),Burroughs Wellcome Fund,United States,Philanthropy,1
+Burroughs Wellcome Investigators in the Pathogenesis of Infectious Disease Award(Burroughs Wellcome Fund),Burroughs Wellcome Fund,United States,Philanthropy,1
+US Department of Homeland Security(United States Department of Homeland Security (DHS)),US Homeland Security,United States,Government (defence),1
+US Military HIV Research Program through Walter Reed Army Institute of Research,US Department of Defense,United States,Government (defence),1
+US Centers for Disease Control and Prevention(CDC)(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+US Centres for Disease Control and Prevention (CDC)(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+United Nations Children's Fund,UN agencies,International,Multilateral,1
+United State Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+United State NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+United States Agency for International Development (USAID) Emerging Pandemic Threats PREDICT program(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+European Union's Horizon 2020 research and innovation programme,European Union,European Union,Multilateral,1
+Economic and Social Research Council STEPS Centre,UK government,United Kingdom,Government,1
+Ecosystem Services for Poverty Alleviation (ESPA),Other / unclassified,Unknown,Unknown,1
+European Community(European Commission),European Union,European Union,Multilateral,1
+European Cooperation in Science and Technology(European Cooperation in Science and Technology (COST)),European Union,European Union,Multilateral,1
+European Developing Country Clinical Trails Partnership (EDCTP) Career Fellowship,European Union,European Union,Multilateral,1
+European Fund for Regional Development (EFRE project),European Union,European Union,Multilateral,1
+ECOWAS,African funders,Africa,Government,1
+FAZIT Stiftung,German government (other),Germany,Government,1
+FIC NIH HHS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH Fogarty International Center (FIC)),US NIH (other institutes),United States,Government,1
+European Research Council under the European Union(European Research Council (ERC)),European Union,European Union,Multilateral,1
+European Research Council(European Research Council (ERC)European Commission),European Union,European Union,Multilateral,1
+European Union FP7 EPIWORK project,European Union,European Union,Multilateral,1
+European Union FP7 project ANTIGONE,European Union,European Union,Multilateral,1
+European Union's Horizon 2020,European Union,European Union,Multilateral,1
+European Union's Horizon 2020 research and innovation program,European Union,European Union,Multilateral,1
+Diabetes Action Research and Education Foundation,Other / unclassified,Unknown,Unknown,1
+"Direccion de Investigacion Cientifica, Humanistica y Tecnologica, National Autonomous University of Honduras, Tegucigalpa, MDC, Honduras, Central America",Universities and hospitals,Unknown,Academic,1
+Evaluation of Protective Immunity after Mucosal Vaccination Against Ebola Virus,Other / unclassified,Unknown,Unknown,1
+Ewing Halsell Foundation,Other / unclassified,Unknown,Unknown,1
+Excellent Young Scientist Program of CAS,Chinese government,China,Government,1
+External Cooperation Program of CAS,Chinese government,China,Government,1
+FAO,UN agencies,International,Multilateral,1
+FAPESP(Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)),Brazilian funders,Brazil,Government,1
+African Field Epidemiology Network,African funders,Africa,Government,1
+African Field Epidemiology Network (AFENET),African funders,Africa,Government,1
+AMED Program for Basic and Clinical Research on Hepatitis,Japanese government,Japan,Government,1
+AMED Program on the Innovative Development and the Application of New Drugs for Hepatitis B,Japanese government,Japan,Government,1
+AMED Research Program for Infectious Diseases Research and Infrastructure (Interdisciplinary Cutting-edge Research),Japanese government,Japan,Government,1
+Deutscher Akademischer Austauschdienst (DAAD) country-related cooperation program,German government (other),Germany,Government,1
+Deutscher Akademischer Austauschdienst (German Academic Exchange Service)(Deutscher Akademischer Austausch Dienst (DAAD)),German government (other),Germany,Government,1
+Deutsches Zentrum fur Infektionsforschung (DZIF,German government (other),Germany,Government,1
+"Division of Global Disease Detection, Center for Global Health, US Centers for Disease Control and Prevention",US CDC,United States,Government,1
+"Deutsche Forschungsgemeinschaft, DFG(German Research Foundation (DFG))",German Research Foundation (DFG),Germany,Government,1
+"Deutsche Forschungsgemeinschaft, through the Collaborative Research Centers",German Research Foundation (DFG),Germany,Government,1
+Deutsche Zentrum fur Infektionsforschung (DZIF),German government (other),Germany,Government,1
+ERATO (Japan Science and Technology Agency)(Japan Science & Technology Agency (JST)),Japanese government,Japan,Government,1
+ESRC(UK Research & Innovation (UKRI)Economic & Social Research Council (ESRC)),UK government,United Kingdom,Government,1
+EU FP7 project PREPARE,European Union,European Union,Multilateral,1
+EU Horizon 2020 program grant agreement VEO,European Union,European Union,Multilateral,1
+"Division of Intramural Research, National Institute of Allergy and Infectious Disease (NIAID), National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+Direct For Computer & Info Scie & Enginr(National Science Foundation (NSF)NSF - Directorate for Computer & Information Science & Engineering (CISE)),US National Science Foundation,United States,Government,1
+Direction Prefectorale de la Sante of Gueckedou,Other / unclassified,Unknown,Unknown,1
+Directorate For Engineering(National Science Foundation (NSF)NSF - Directorate for Engineering (ENG)),US National Science Foundation,United States,Government,1
+Directorate For Geosciences,Other / unclassified,Unknown,Unknown,1
+Directorate-General for International Cooperation and Development,European Union,European Union,Multilateral,1
+"Div Of Electrical, Commun & Cyber Sys",Other / unclassified,Unknown,Unknown,1
+Div Of Information & Intelligent Systems,Other / unclassified,Unknown,Unknown,1
+DoD Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+Doctoral Research Award from the Canadian Institute for Health Research (CIHR),Canadian government,Canada,Government,1
+Douglass and Ewing Halsell Foundations,Other / unclassified,Unknown,Unknown,1
+Dutch Research Foundation (ZonMW)(Netherlands Organization for Health Research and Development),Dutch funders,Netherlands,Government,1
+Dutch Research Foundation (ZonMw)(Netherlands Organization for Health Research and Development),Dutch funders,Netherlands,Government,1
+EC(European CommissionEuropean Commission Joint Research Centre),European Union,European Union,Multilateral,1
+"Division of Global Emerging Infections Surveillance and Response System (GEIS) Operations at the Armed Forces Health Surveillance Center, through US Army Medical Research Institute of Infectious Diseases (USAMRIID)",US Department of Defense,United States,Government (defence),1
+Division of Global Emerging Infections Surveillance and Response System Operations at the Armed Forces Health Surveillance Center through USAMRIID,US Department of Defense,United States,Government (defence),1
+EDCTP ebola emergency under the Mobilization of Research funding in case of Public Health Emergencies,European Union,European Union,Multilateral,1
+EFPIA,Industry,Unknown,Industry,1
+Department of Defense DTRA(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+Department of Defense High Performance Computing Modernization Program Office (HPCMO)(United States Department of Defense),US Department of Defense,United States,Government (defence),1
+Department of Defense PRCRP fellowship(United States Department of Defense),US Department of Defense,United States,Government (defence),1
+Department of Defense Peer Reviewed Medical Research Program,US Department of Defense,United States,Government (defence),1
+Department of Defense SBIR grant (Phase 2)(United States Department of Defense),US Department of Defense,United States,Government (defence),1
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institute of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+FWO SB grant for strategic basic research of the Fonds Wetenschappelijk Onderzoek/Research foundation Flanders,Belgian funders,Belgium,Government,1
+"Faculty of Medicine, Makerere University",Universities and hospitals,Unknown,Academic,1
+Faucett Catalyst Fund,Other / unclassified,Unknown,Unknown,1
+"Federal Funds from the Defense Threat Reduction Agency, U.S. Department of Defense",US Department of Defense,United States,Government (defence),1
+Federal Ministry of Education and Research (BMBF) under the research program for civil security of the German Federal Government as part of the high-tech strategy for Germany,German government (other),Germany,Government,1
+Federal Ministry of Health,Other / unclassified,Unknown,Unknown,1
+"Grant for the Joint Usage/Research Center on Tropical Disease, Institute of Tropical Medicine",Other / unclassified,Unknown,Unknown,1
+Group-type Special Supporting Project for Educational Talents in Universities,Universities and hospitals,Unknown,Academic,1
+Finnish Cultural Foundation(Finnish Cultural FoundationFinnish IT center for science),Other / unclassified,Unknown,Unknown,1
+Fogarty International Center of the NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH Fogarty International Center (FIC)),US NIH (other institutes),United States,Government,1
+Fondation pour la Recherche Medicale(Fondation pour la Recherche Medicale),Other / unclassified,Unknown,Unknown,1
+Fonds der Chemischen Industrie(Fonds der Chemischen IndustrieEuropean Commission),European Union,European Union,Multilateral,1
+Foundation for the Fusion of Science and Technology,Other / unclassified,Unknown,Unknown,1
+Founders Council,Other / unclassified,Unknown,Unknown,1
+FWF(Austrian Science Fund (FWF)),Other / unclassified,Unknown,Unknown,1
+FWO SB,Belgian funders,Belgium,Government,1
+"German Center for Infection Research (DZIF, Clinical Leave Stipend)",German government (other),Germany,Government,1
+"Founding Research Centers for Emerging and Reemerging Infectious Diseases(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Frederick National Laboratory for Cancer Research, National Institutes of Health (US)",US NIH (other institutes),United States,Government,1
+Free and Hanseatic City of Hamburg,Other / unclassified,Unknown,Unknown,1
+French National Agency for Research (ANR)(French National Research Agency (ANR)),French public funders,France,Government,1
+"Fukuoka Financial Group, Inc.",Industry,Unknown,Industry,1
+Fulbright Commission Spain,Other / unclassified,Unknown,Unknown,1
+GM/CA at the APS,Other / unclassified,Unknown,Unknown,1
+EU-FP7 ANTIGONE,European Union,European Union,Multilateral,1
+GOARN Operational Support Team at WHO,World Health Organization,International,Multilateral,1
+Gabonese Government,African funders,Africa,Government,1
+Galveston National Laboratory,Other / unclassified,Unknown,Unknown,1
+General World Health Organization funds,World Health Organization,International,Multilateral,1
+German Academic Exchange Service (DAAD)(Deutscher Akademischer Austausch Dienst (DAAD)),German government (other),Germany,Government,1
+German Center for Infection Research (DZIF),German government (other),Germany,Government,1
+"German Center for Infection Research (DZIF), section Emerging Infections",German government (other),Germany,Government,1
+Inovio Pharmaceuticals,Industry,Unknown,Industry,1
+"Institute for Molecular Medicine and Infectious Disease, Drexel University College of Medicine",Universities and hospitals,Unknown,Academic,1
+Institute for the Promotion of Innovation by Science and technology in Flanders Ghent from the Flemish government,Belgian funders,Belgium,Government,1
+Institute of Bioengineering and Nanotechnology (Biomedical Research Council)(Agency for Science Technology & Research (A*STAR)),UK government,United Kingdom,Government,1
+"Institute of Bioengineering and Nanotechnology (JCO, Agency for Science, Technology and Research, Singapore)(Agency for Science Technology & Research (A*STAR))",Singapore government,Singapore,Government,1
+"Institute of Medical Science, University of Tokyo",Japanese foundations,Japan,Philanthropy,1
+Institute of Organic Chemistry and Biochemistry,Other / unclassified,Unknown,Unknown,1
+IMCB,Other / unclassified,Unknown,Unknown,1
+"German Center for Infection Research (Hamburg, Germany)",German government (other),Germany,Government,1
+German Center for Infection Research),German government (other),Germany,Government,1
+German Federal Ministry of Food and Agriculture (BMEL) through the Federal Office for Agriculture and Food (BLE),Other / unclassified,Unknown,Unknown,1
+"German Federal Ministry of Food and Agriculture through the Federal Office for Agriculture and Food, project ZooSeq",Other / unclassified,Unknown,Unknown,1
+German Federal Ministry of Health,Other / unclassified,Unknown,Unknown,1
+German Network for Bioinformatics Infrastructure (de. NBI) by the German Federal Ministry of Education and Research,German government (other),Germany,Government,1
+German Research Foundation (Deutsche Forschungsgemeinschaft) through a Collaborative Research Center (Sonderforschungsbereich)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+Innovative Medicine Initiative 2 Joint Undertaking,Other / unclassified,Unknown,Unknown,1
+Government of the United Republic of Tanzania through the World Bank (WB-ACE II Grant),African funders,Africa,Government,1
+Grand Challenges Canada(CGIAR),Canadian government,Canada,Government,1
+German Research Foundation (Deutsche Forschungsgemeinschaft)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+"Gilead Sciences, Inc. (Foster City, CA, USA)(Gilead Sciences)",Industry,Unknown,Industry,1
+"Global COE Program Establishment of International Collaboration Centers for Zoonosis Control of the Ministry of Education, Culture, Sports, Science, and Technology (MEXT), Japan",Japanese government,Japan,Government,1
+"Global Center Of Excellence Program Establishment of International Collaboration Centers for Zoonosis Control from Ministry of Education, Culture, Sports, Science and Technology, Japan",Japanese government,Japan,Government,1
+Global Disease Detection Program of the Centers for Disease Control and Prevention,US CDC,United States,Government,1
+Global Emerging Infections Surveillance Section of the Armed Forces Health Surveillance Branch (ProMIS plans) through US Army Medical Research Institute of Infectious Diseases,US Department of Defense,United States,Government (defence),1
+Guangdong Provincial Key Laboratory of Precision Medicine and Clinical Translation Research of Hakka Population,Chinese government,China,Government,1
+HBRS/Center for Infection Biology/DEWIN,Other / unclassified,Unknown,Unknown,1
+Global Health Protection Program,Other / unclassified,Unknown,Unknown,1
+Global Viral Forecasting,Other / unclassified,Unknown,Unknown,1
+Glycobiology Institute,Other / unclassified,Unknown,Unknown,1
+Government of Canada(CGIAR),Canadian government,Canada,Government,1
+Government of Saskatchewan through Innovation Saskatchewan,Other / unclassified,Unknown,Unknown,1
+Government of Spain (Department of Science and Innovation),Other / unclassified,Unknown,Unknown,1
+J. Craig Venter Institute,Other / unclassified,Unknown,Unknown,1
+"Intramural Research Program of the National Institute of Allergy and Infectious Diseases, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+"Intramural Research Program of the National Institutes of Health, National Institute of Allergy and Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+"Intramural Research Program, NIAID, NIH",US NIH (NIAID),United States,Government,1
+"Intramural Research Program, NIAID, NIH, USA",US NIH (NIAID),United States,Government,1
+Intravacc,Other / unclassified,Unknown,Unknown,1
+Investigators in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund,Burroughs Wellcome Fund,United States,Philanthropy,1
+Investigators in the Pathogenesis of Infectious Disease award from The Burroughs Wellcome Fund,Burroughs Wellcome Fund,United States,Philanthropy,1
+Health Leading Talents Program of Zhejiang Province,Other / unclassified,Unknown,Unknown,1
+"Health and Labor Sciences Research Grants, Japan",Other / unclassified,Unknown,Unknown,1
+Heinrich Pette Institute,Other / unclassified,Unknown,Unknown,1
+"Helen Kellogg Institute for International Studies, University of Notre Dame",Universities and hospitals,Unknown,Academic,1
+Irma T. Hirschl Trust,Other / unclassified,Unknown,Unknown,1
+Irma T. Hirschl/Monique Weill-Caulier Career Scientist Award,Other / unclassified,Unknown,Unknown,1
+"Italian Ministry of Health(Ministry of Health, Italy)",Italian funders,Italy,Government,1
+Ivy Foundation Biomedical Innovation grants from University of Virginia,Universities and hospitals,Unknown,Academic,1
+Hepatitis B Foundation,Other / unclassified,Unknown,Unknown,1
+Hepatitis B Foundation through Commonwealth of Pennsylvania,Other / unclassified,Unknown,Unknown,1
+Hepatitis B Foundationa,Other / unclassified,Unknown,Unknown,1
+Hercules Foundation (FWO),Belgian funders,Belgium,Government,1
+IBM Almaden Research Center (U.S.A.)(International Business Machines (IBM)),Other / unclassified,Unknown,Unknown,1
+HHS/NIH/National Institute of Allergy and Infectious Diseases (NIAID),US NIH (NIAID),United States,Government,1
+Hannover Biomedical Research School,Other / unclassified,Unknown,Unknown,1
+Hauptman-Woodward Medical Research Institute,Other / unclassified,Unknown,Unknown,1
+IMCB-A*STAR,Other / unclassified,Unknown,Unknown,1
+Incyte,Other / unclassified,Unknown,Unknown,1
+Indiana University School of Medicine-South Bend Imaging and Flow Cytometry Core,Indian funders,India,Government,1
+Indo-US Science and Technology Forum fellowship,Other / unclassified,Unknown,Unknown,1
+"Innovation Fund Denmark, The Danish Council for Independent Research",Other / unclassified,Unknown,Unknown,1
+"Innovation Ventures, Cincinnati Children's Hospital Medical Center",Universities and hospitals,Unknown,Academic,1
+"Helmholtz Zentrum Munchen, Institute of Virology",German government (other),Germany,Government,1
+Helsinki University Hospital (HUSLAB),Universities and hospitals,Unknown,Academic,1
+"Department of Health and Human Services, Office of the Assistant Secretary for Preparedness and Response, Biomedical Advanced Research and Development Authority (BARDA)",US HHS (BARDA / ASPR),United States,Government,1
+Department of Health and Human Services/National Institute of Allergy and Infectious Diseases (NIAID)/NIH,US NIH (NIAID),United States,Government,1
+Department of Defense (DOD) Medical Countermeasure Systems' Joint Vaccine Acquisition Program (MCS-JVAP),US Department of Defense,United States,Government (defence),1
+Department of Defense Biotechnology High Performance Computing Software Applications Institute,US Department of Defense,United States,Government (defence),1
+Department of Defense Chemical and Biological Defense Program,US Department of Defense,United States,Government (defence),1
+"Integrated Research Facility, Division of Clinical Research, NIAID",US NIH (NIAID),United States,Government,1
+International Development Research Centre,UK government,United Kingdom,Government,1
+"International Development Research Centre (IDRC), Canada",Canadian government,Canada,Government,1
+"Department of Homeland Security and Fogarty International Center, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Neurological Disorders & Stroke (NINDS)NIH Fogarty International Center (FIC)United States Department of Homeland Security (DHS))",US NIH (other institutes),United States,Government,1
+Department of Homeland Security(United States Department of Homeland Security (DHS)),US Homeland Security,United States,Government (defence),1
+Department of Microbiology and Immunology,Other / unclassified,Unknown,Unknown,1
+"Department of Veterinary Population Medicine, College of Veterinary Medicine, University of Minnesota(University of Minnesota System)",Universities and hospitals,Unknown,Academic,1
+Department of Zoology at the University of Oxford,Universities and hospitals,Unknown,Academic,1
+Department of the Army and Defense Threat Reduction Agency under Air Force,US Department of Defense,United States,Government (defence),1
+Department of Defense through the Defense Threat Reduction Agency (DTRA)(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+"Department of Health and Human Services, NIH grant",US NIH (other institutes),United States,Government,1
+DMID,Other / unclassified,Unknown,Unknown,1
+DSR,Other / unclassified,Unknown,Unknown,1
+Deutsche AIDS Gesellschaft,Other / unclassified,Unknown,Unknown,1
+Deutsche Forschungsgemeinschaft (DFG) through the Priority Program(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+"Deutsche Forschungsgemeinschaft (DFG, German research foundation)(German Research Foundation (DFG))",German Research Foundation (DFG),Germany,Government,1
+Deutsche Forschungsgemeinschaft (Germany)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+Deutsche Forschungsgemeinschaft through the collaborative research center(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+Department of Homeland Security (DHS ST)(United States Department of Homeland Security (DHS)),US Homeland Security,United States,Government (defence),1
+Intramural National Institute of Allergy and Infectious Diseases Biodefense(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+"Intramural Program, National Center for Advancing Translational Sciences",Other / unclassified,Unknown,Unknown,1
+Intramural Research Program of the NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+"Intramural Research Program of the NIH, NIAID(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+"Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health",US NIH (NIAID),United States,Government,1
+"Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)",US NIH (NIAID),United States,Government,1
+Integrated Biotherapeutics,Industry,Unknown,Industry,1
+"Integrated Research Facility (IRF), National Institute of Allergy and Infectious Disease (NIAID), NIH",US NIH (NIAID),United States,Government,1
+James B. Pendleton Charitable Trust,Other / unclassified,Unknown,Unknown,1
+Jane and Aatos Erkko Foundation,Other / unclassified,Unknown,Unknown,1
+"KAKENHI of the Japan Society for the Promotion of Science(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of ScienceGrants-in-Aid for Scientific Research (KAKENHI))",Japanese government,Japan,Government,1
+Kazato Research Encouragement Prize,Other / unclassified,Unknown,Unknown,1
+Key Cultivation Project of Guangdong Medical University,Chinese government,China,Government,1
+Key Disciplinary of Health and Family Planning Commission of Zhejiang Province,Other / unclassified,Unknown,Unknown,1
+Key Projects in Tianjin Science & Technology Pillar Program,Other / unclassified,Unknown,Unknown,1
+Key Scientific and Technological Project of Meizhou People's Hospital,Universities and hospitals,Unknown,Academic,1
+Janssen Vaccines,Industry,Unknown,Industry,1
+Janssen Vaccines Prevention,Industry,Unknown,Industry,1
+Japan Agency for Medical Research and Development(Japan Agency for Medical Research and Development (AMED)),Japanese government,Japan,Government,1
+JST Core Research for Evolutional Science and Technology(Japan Science & Technology Agency (JST)Core Research for Evolutional Science and Technology (CREST)),Japanese government,Japan,Government,1
+JST MIRAI,Japanese government,Japan,Government,1
+JSTO-CBD/DTRA(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+JSTO-DTRA project,US Department of Defense,United States,Government (defence),1
+JSTO-NRC CBD postdoctoral funds from DTRA,US Department of Defense,United States,Government (defence),1
+Japan Prize Foundation(Japan Prize Foundation),Japanese foundations,Japan,Philanthropy,1
+Japan Program for Infectious Disease Research and Infrastructure,Other / unclassified,Unknown,Unknown,1
+Japan Science and Technology Agency (JST)(Japan Science & Technology Agency (JST)),Japanese government,Japan,Government,1
+Japan Science and Technology Agency Core Research for Evolutional Science and Technology(Japan Science & Technology Agency (JST)Core Research for Evolutional Science and Technology (CREST)),Japanese government,Japan,Government,1
+Japan Science and Technology Agency within the framework of the Science and Technology Research Partnership for Sustainable Development,Japanese government,Japan,Government,1
+Japan Science and Technology Agency(Japan Science & Technology Agency (JST)),Japanese government,Japan,Government,1
+"Japan Society for Promotion of Science(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,1
+Janssen Sciences,Industry,Unknown,Industry,1
+Intramural NIAID Research Opportunities program,US NIH (NIAID),United States,Government,1
+"Japan Society for the Promotion of Science (JSPS)(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,1
+"Japan Society for the Promotion of Science Core-to-Core Program A(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,1
+"Japan Society for the Promotion of Science JSPS Grant(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for the Promotion of Science)",Japanese government,Japan,Government,1
+Japanese Agency for Medical Research and Development,Japanese government,Japan,Government,1
+Japanese Initiative for Progress of Research on Infectious Disease for Global Epidemics (J-PRIDE),Other / unclassified,Unknown,Unknown,1
+Japanese Initiative for Progress of Research on Infectious Disease for Global Epidemics (J-PRIDE) from AMED,Japanese government,Japan,Government,1
+Japan International Cooperation Agency (JICA) within the framework of the Science and Technology Research Partnership for Sustainable Development (SATREPS),Japanese government,Japan,Government,1
+Medecins Sans Frontieres-Spain,Other / unclassified,Unknown,Unknown,1
+Medecins sans Frontieres,Other / unclassified,Unknown,Unknown,1
+Medical Countermeasure Systems (MCS),US Department of Defense,United States,Government (defence),1
+Medical Countermeasure Systems (MCS) of the Joint Program Executive Office for Chemical and Biological Defense (JPEO-CBD),US Department of Defense,United States,Government (defence),1
+Medical Countermeasure Systems Joint Project Management Office,US Department of Defense,United States,Government (defence),1
+MGH Executive Committee on Research (ECOR) funds,Other / unclassified,Unknown,Unknown,1
+MITACS Accelerate grant,Other / unclassified,Unknown,Unknown,1
+MRCE,Other / unclassified,Unknown,Unknown,1
+"Johns Hopkins School of Medicine Biostatistics, Epidemiology and Data Management (BEAD) Core",Universities and hospitals,Unknown,Academic,1
+Johnson Johnson(Johnson & JohnsonJohnson & Johnson USA),Other / unclassified,Unknown,Unknown,1
+Joint Product Management Office of BioDefense Therapeutics (BDTx),Industry,Unknown,Industry,1
+"Joint Program Executive Office for Chemical and Biological Defense, Medical Countermeasures Systems Joint Project Management Office",US Department of Defense,United States,Government (defence),1
+Joint Project Management-Medical Countermeasure Systems (JPM-MCS),US Department of Defense,United States,Government (defence),1
+Manchot Stiftung,German government (other),Germany,Government,1
+Mechanobiology Institute,Other / unclassified,Unknown,Unknown,1
+Medecins Sans Frontieres (MSF),Other / unclassified,Unknown,Unknown,1
+Joint Project Manager-Transformational Medical Technologies,US Department of Defense,United States,Government (defence),1
+Joint Science Technology Office - Defense Threat Reduction Agency (JSTO-DTRA) project,US Department of Defense,United States,Government (defence),1
+Joint Science and Technology Office,Other / unclassified,Unknown,Unknown,1
+Joint Science and Technology Office Transformational Medical Technologies,US Department of Defense,United States,Government (defence),1
+Joint Science and Technology Office Transformational Medical Technologies Initiative,US Department of Defense,United States,Government (defence),1
+Japanese Initiative for Progress of Research on Infectious Disease for Global Epidemics (J-PRIDE) from the Japan Agency for Medical Research and Development (AMED),Japanese government,Japan,Government,1
+Japanese Initiative for Progress of Research on Infectious Disease for Global Epidemics (J-PRIDE) from the Japan Agency for Medical Research and Development AMED),Japanese government,Japan,Government,1
+Jefferson Vaccine Center,Other / unclassified,Unknown,Unknown,1
+"Joint Science and Technology Office for Chemical and Biological Defense, Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency)",US Department of Defense,United States,Government (defence),1
+"Joint Usage/Research Center on Tropical Disease, Institute of Tropical Medicine",Other / unclassified,Unknown,Unknown,1
+Joint Usage/Research Center program of the Institute for Life and Medical Sciences Kyoto University,Japanese foundations,Japan,Philanthropy,1
+Joint ministerial program of R&D against CBRNE risks,Other / unclassified,Unknown,Unknown,1
+Jurgen Manchot Stiftung,German government (other),Germany,Government,1
+Jurgen-Manchot-Foundation,Other / unclassified,Unknown,Unknown,1
+Jurgen-Manchot-Stiftung,German government (other),Germany,Government,1
+"Joint Project Manager for Chemical, Biological, Radiological, and Nuclear Medical (JPM CBRN Medical)",Other / unclassified,Unknown,Unknown,1
+Ministere des Affaires Etrangeres de la France (FSP),French public funders,France,Government,1
+"Ministere des Affaires Etrangeres, France",French public funders,France,Government,1
+"Ministero della Salute, Italia - Ricerca Corrente, Istituti di Ricovero e Cura a Carattere Scientifico(Ministry of Health, Italy)",Italian funders,Italy,Government,1
+Ministry of Agriculture(Gida Tarim Ve Hayvancilik Bakanligi),Other / unclassified,Unknown,Unknown,1
+Ministry of Defense of the Czech Republic,Other / unclassified,Unknown,Unknown,1
+"Ministry of Education Singapore(Ministry of Education, Singapore)",Singapore government,Singapore,Government,1
+"Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+Melinda Gates Foundation(CGIAR),Bill & Melinda Gates Foundation,United States,Philanthropy,1
+"Laboratory of Virology, Intramural Research Program, NIAID/NIH",US NIH (NIAID),United States,Government,1
+"Laulima Government Solutions (LGS), LLC",Industry,Unknown,Industry,1
+"Ministry of Education, Culture, Sports, Science and Technology (MEXT), Platform Project for Supporting Drug Discovery and Life Science Research (Basis for Supporting Innovative Drug Discovery and Life Science Research [BINDS])(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Ministry of Education, Culture, Sports, Science and Technology (MEXT), Platform Project for Supporting Drug Discovery and Life Science Research (Platform for Drug Discovery, Informatics, and Structural Life Science [PDIS])(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Ministry of Education, Culture, Sports, Science and Technology, Japan(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Ministry of Education, Culture, Sports, Science, and Technology (MEXT)(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Ministry of Education, Culture, Sports, Science, and Technology(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+"Ministry of Education, Science and Technological Development of the Republic of Serbia",Other / unclassified,Unknown,Unknown,1
+Lung SK,Other / unclassified,Unknown,Unknown,1
+MCS,Other / unclassified,Unknown,Unknown,1
+MEXT Platform for Drug Discovery Informatics and Structural Life Science,Japanese government,Japan,Government,1
+"Kroc Institute for International Peace Studies, University of Notre Dame",Universities and hospitals,Unknown,Academic,1
+Kyusyu Industrial Advancement Center Gapfund Program,Other / unclassified,Unknown,Unknown,1
+LOEWE Medical RNomics,Other / unclassified,Unknown,Unknown,1
+LOEWE program of the state of Hesse (Germany),Other / unclassified,Unknown,Unknown,1
+Laboratory for Molecular Simulation (LMS),Other / unclassified,Unknown,Unknown,1
+Macula Society Retina Research Foundation Cox Family Grant,Other / unclassified,Unknown,Unknown,1
+Makerere University Kampala,Universities and hospitals,Unknown,Academic,1
+Manchot Foundation,Other / unclassified,Unknown,Unknown,1
+Leibniz Graduate School for Emerging Infectious Diseases,German government (other),Germany,Government,1
+Leibniz-Gemeinschaft through the EIDIS graduate school,German government (other),Germany,Government,1
+Life Science Foundation of Japan(Life Science Foundation of Japan),Other / unclassified,Unknown,Unknown,1
+Linnaeus Estate,Other / unclassified,Unknown,Unknown,1
+"London School of Hygiene and Tropical Medicine, UK",Other / unclassified,Unknown,Unknown,1
+DTRA Grant,US Department of Defense,United States,Government (defence),1
+DTRA Project,US Department of Defense,United States,Government (defence),1
+DZIF grant,German government (other),Germany,Government,1
+"Danish Council for Independent Research, Technology and Production Sciences, Denmark(Det Frie Forskningsrad (DFF))",Other / unclassified,Unknown,Unknown,1
+DHHS/NIH from the National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+DHS ST,Other / unclassified,Unknown,Unknown,1
+"DIR, NIAID, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+Medical Research and Materiel Command(United States Department of DefenseUnited States ArmyU.S. Army Medical Research & Materiel Command (USAMRMC)),US Department of Defense,United States,Government (defence),1
+Department of Biotechnology of the Government of India(Department of Biotechnology (DBT) India),Indian funders,India,Government,1
+David H. Smith Fellowship from the Cedar Tree Foundation,Other / unclassified,Unknown,Unknown,1
+"Deanship of Scientific Research (DSR) at King Abdulaziz University (KAU), Jeddah, Saudi Arabia",Saudi funders,Saudi Arabia,Government,1
+Deanship of Scientific Research at the German Jordanian University,Universities and hospitals,Unknown,Academic,1
+Defense Threat Reduction Agency (DTRA) through the Medical CBRN Defense Consortium,US Department of Defense,United States,Government (defence),1
+"Defense Threat Reduction Agency (DTRA), Joint Science and Technology Office for Chem Bio Defense",US Department of Defense,United States,Government (defence),1
+Defense Threat Reduction Agency Cooperative Biological Engagement Program(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+"Defense Threat Reduction Agency Cooperative Biological Engagement Program, through Metabiota(United States Department of DefenseDefense Threat Reduction Agency)",US Department of Defense,United States,Government (defence),1
+Medical Countermeasures Systems,Other / unclassified,Unknown,Unknown,1
+Medical Research Council of the Academy of Finland(Academy of Finland),UK government,United Kingdom,Government,1
+China Mega-Project on Infectious Disease Prevention,Chinese government,China,Government,1
+China Ministry of Science and Technology National 973 Project,Chinese government,China,Government,1
+Defense Threat Reduction Agency grant(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+"Defense Threat Reduction Agency, Joint Science and Technology Office-Chemical Biological Defense Program(United States Department of DefenseDefense Threat Reduction Agency)",US Department of Defense,United States,Government (defence),1
+Defense Threat and Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+Delia and Donald Baxter Fellowship program,Other / unclassified,Unknown,Unknown,1
+Merck Co.(Merck & Company),Industry,Unknown,Industry,1
+Merck Sharp Dohme LLC,Industry,Unknown,Industry,1
+"Mexico (CONACYT, Consejo Nacional de Ciencia y Tecnologia)",Other / unclassified,Unknown,Unknown,1
+Michigan Economic Development Corporation,Industry,Unknown,Industry,1
+Michigan Technology Tri-Corridor,Other / unclassified,Unknown,Unknown,1
+Midwest Regional Center of Excellence(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+Ministere de la Sante et de l'Hygiene Publique in Guinea,Other / unclassified,Unknown,Unknown,1
+"Medical Countermeasure Systems-Joint Vaccine Acquisition Program (JVAP) within the Joint Program Executive Office for Chemical, Biological, Radiological, and Nuclear Medical (JPEO-CBRND)",US Department of Defense,United States,Government (defence),1
+"Ministry of Science and Technological Development of Serbia(Ministry of Education, Science & Technological Development, Serbia)",Other / unclassified,Unknown,Unknown,1
+NIH postdoctoral training grant through the Lineberger Comprehensive Cancer Center at University of North Carolina,US NIH (other institutes),United States,Government,1
+"NIH, National Institute of General Medical Sciences(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS))",US NIH (other institutes),United States,Government,1
+"NIH, Southeastern Regional Center of Excellence for Emerging Infections and Biodefense(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+NIH-NCI(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Cancer Institute (NCI)),US NIH (other institutes),United States,Government,1
+NIH-ORIP HEI,US NIH (other institutes),United States,Government,1
+NIH-funded training program at the Albert Einstein College of Medicine,US NIH (other institutes),United States,Government,1
+NIH NIDCR(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Dental & Craniofacial Research (NIDCR)),US NIH (other institutes),United States,Government,1
+Monique Weill-Caulier Trust,Other / unclassified,Unknown,Unknown,1
+Morris Animal Foundation,Other / unclassified,Unknown,Unknown,1
+"Mothers' Milk Bank of North Texas, Fort Worth, Texas",Other / unclassified,Unknown,Unknown,1
+NATIONAL CENTER FOR RESEARCH RESOURCES(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR)),US NIH (other institutes),United States,Government,1
+"Ministry of Education, Youth and Sports of the Czech Republic(Ministry of Education, Youth & Sports - Czech Republic)",Other / unclassified,Unknown,Unknown,1
+"Ministry of Health of Uganda, Kasese District Health Team",African funders,Africa,Government,1
+"Ministry of Health, Labor, and Welfare, Japan(Ministry of Health, Labour and Welfare, Japan)",Japanese government,Japan,Government,1
+Ministry of Science and Higher Education of the Russian Federation,Russian government,Russia,Government,1
+NE,Other / unclassified,Unknown,Unknown,1
+NERC(UK Research & Innovation (UKRI)Natural Environment Research Council (NERC)),UK government,United Kingdom,Government,1
+NERCE-BEID,Other / unclassified,Unknown,Unknown,1
+"NERCE/BEID, Boston, MA",Other / unclassified,Unknown,Unknown,1
+"Ministry of Science and Technology of China 973 Project(Ministry of Science and Technology, ChinaNational Basic Research Program of China)",Chinese government,China,Government,1
+"Ministry of Science and Technology of China(Ministry of Science and Technology, China)",Chinese government,China,Government,1
+Mitsui Life Social Welfare Foundation,Other / unclassified,Unknown,Unknown,1
+Monash University(Monash University),Universities and hospitals,Unknown,Academic,1
+Medical Science Foundation of Guangdong Province,Chinese government,China,Government,1
+Medical Science and Technology Program of Zhejiang Province,Other / unclassified,Unknown,Unknown,1
+NHMRC Senior Research Fellowship(National Health and Medical Research Council (NHMRC) of Australia),UK government,United Kingdom,Government,1
+NIAID CETR,US NIH (NIAID),United States,Government,1
+NIAID Divisions of Intramural Research and Clinical Research,US NIH (NIAID),United States,Government,1
+NIAID Grant(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+NCATS NIH HHS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Advancing Translational Sciences (NCATS)),US NIH (other institutes),United States,Government,1
+NCRR(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR)),US NIH (other institutes),United States,Government,1
+National Health and Medical Research Council of Australia(National Health and Medical Research Council (NHMRC) of Australia),UK government,United Kingdom,Government,1
+"National Human Genome Research Institute (NHGRI), NIH Department of Health and Human Services",US NIH (other institutes),United States,Government,1
+Naito Foundation(Naito Memorial Foundation),Japanese foundations,Japan,Philanthropy,1
+National Basic Research Program of China(National Basic Research Program of China),Chinese government,China,Government,1
+National Cancer Institute(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Cancer Institute (NCI)),US NIH (other institutes),United States,Government,1
+"National Cancer Institute, NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Cancer Institute (NCI))",US NIH (other institutes),United States,Government,1
+National Center for Advancing Translational Sciences (NCATS)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Advancing Translational Sciences (NCATS)),US NIH (other institutes),United States,Government,1
+National Center for Advancing Translational Sciences(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Advancing Translational Sciences (NCATS)),US NIH (other institutes),United States,Government,1
+National Institute of Allergy And Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institute of Allergy and Infectious Disease Public Health Service(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institute of Allergy and Infectious Diseases (NIAID) of the National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Center for Research Resources(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR)),US NIH (other institutes),United States,Government,1
+"National Center for research Resources, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR))",US NIH (other institutes),United States,Government,1
+National Emerging Infectious Diseases Laboratories (NEIDL) Director's Fund,Industry,Unknown,Industry,1
+National Eye Institute/National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Eye Institute (NEI)),US NIH (other institutes),United States,Government,1
+National Health and Medical Research Council (NHMRC)(National Health and Medical Research Council (NHMRC) of Australia),UK government,United Kingdom,Government,1
+"NIH AIDS Reagent Program, Division of AIDS, NIAID, NIH: DC -SIGN antibody",US NIH (NIAID),United States,Government,1
+NIH Intramural Research Program(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+NIH Molecular Biophysics Training Grant(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+NIAID Non-Biodefense Emerging Infectious Disease Research Opportunities award,US NIH (NIAID),United States,Government,1
+"NIAID, NIH (U.S.A)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+"NIAID, National Institutes of Health Centers of Excellence for Translational Research",US NIH (NIAID),United States,Government,1
+NIAID/NIH Intramural Research Program,US NIH (NIAID),United States,Government,1
+National Institute for Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+NIH National Institute of Dental and Craniofacial Research(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Dental & Craniofacial Research (NIDCR)),US NIH (other institutes),United States,Government,1
+NIH Research Training Grant - Fogarty International Center through University of Minnesota,US NIH (other institutes),United States,Government,1
+NIH at Albert Einstein College of Medicine(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+NIH at the Albert Einstein College of Medicine(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+NIH from NIH/NCCAM,US NIH (other institutes),United States,Government,1
+NIGMS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS)),US NIH (other institutes),United States,Government,1
+"NIGMS, National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS))",US NIH (other institutes),United States,Government,1
+NIH (Northeast Biodefense Center-Lipkin)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+"Clinical Monitoring Research Program Directorate, Frederick National Lab for Cancer Research - NCI",Other / unclassified,Unknown,Unknown,1
+Coalition for Epidemic Preparedness Innovations (CEPI-ENABLE),CEPI,International,Multilateral,1
+Commonwealth Wealth of Pennsylvania,Other / unclassified,Unknown,Unknown,1
+Commonwealth of Australia(Australian Government),Australian funders,Australia,Government,1
+Commonwealth of Pennsylvania through the Hepatitis B Foundation,Other / unclassified,Unknown,Unknown,1
+Complutense University of Madrid and Banco de Santander,Universities and hospitals,Unknown,Academic,1
+Chan Zuckerberg Biohub,Other / unclassified,Unknown,Unknown,1
+Chemical and Biological Defense Research Associateship award from the National Research Council of the National Academies,Other / unclassified,Unknown,Unknown,1
+Coronavirus Variants Rapid Response Network (CoVaRR-Net),Other / unclassified,Unknown,Unknown,1
+Cowles Fellowship Program at Texas Biomedical Research Institute,US NIH (other institutes),United States,Government,1
+Cowles Postdoctoral Fellowship,Other / unclassified,Unknown,Unknown,1
+Critical Reagents Program (CRP) through USAMRIID,US Department of Defense,United States,Government (defence),1
+Cystic Fibrosis Foundation(Italian Cystic Fibrosis Research Foundation),Italian funders,Italy,Government,1
+DAIDS(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+Cincinnati Children's Hospital Medical Center (Translational Research Initiative Grant),Universities and hospitals,Unknown,Academic,1
+"Cincinnati Children's Research Foundation, Cincinnati, OH",Other / unclassified,Unknown,Unknown,1
+DARPA PREEMPT Program Cooperative Agreement,US Department of Defense,United States,Government (defence),1
+DARPA(United States Department of DefenseDefense Advanced Research Projects Agency (DARPA)),US Department of Defense,United States,Government (defence),1
+DELTAS Africa Initiative grant,African funders,Africa,Government,1
+DELTAS Africa grant,African funders,Africa,Government,1
+DFG (Excellence Cluster Inflammation at Interfaces)(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+DGA-MRIS and Aix-Marseille Universite scholarship,French public funders,France,Government,1
+Computational Biology program of the DoD Advanced Research Project Agency,US Department of Defense,United States,Government (defence),1
+"Consiglio Nazionale delle Ricerche (CNR), Italy: Laboratori Congiunti Bilaterali Internazionali (Scienze Biomediche), Project: New vaccines against poverty-related and neglected tropical diseases",Italian funders,Italy,Government,1
+National Center for Research Resources at the National Center for Advancing Translational Sciences,US NIH (other institutes),United States,Government,1
+NIHR(National Institute for Health Research (NIHR)),UK government,United Kingdom,Government,1
+NSERC(Natural Sciences and Engineering Research Council of Canada (NSERC)),Canadian government,Canada,Government,1
+"CBMS/JVAP, under the Joint Program Executive Office for Chemical and Biological Defense",US Department of Defense,United States,Government (defence),1
+CDC Global Disease Detection program,US CDC,United States,Government,1
+CDC emerging infectious disease research core funds,US CDC,United States,Government,1
+CDC(Centre National de la Recherche Scientifique (CNRS)United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+CDC(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+National Institute of Allergy and Infectious Diseases Public Health Service(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)United States Public Health Service),US NIH (NIAID),United States,Government,1
+National Institute of Allergy and Infectious Diseases of the NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institute of Allergy and Infectious Diseases of the National Institute of Health,US NIH (NIAID),United States,Government,1
+"National Institute of Allergy and Infectious Diseases, Division of Microbiology and Immunology(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+"National Institute of Allergy and Infectious Diseases, National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID))",US NIH (NIAID),United States,Government,1
+National Science and Technology Major Project of the Ministry of Science and Technology of China,Chinese government,China,Government,1
+National Science and Technology Major Projects for Major New Drug Innovation and Development,Chinese government,China,Government,1
+National Science and Technology Major Projects for Major New Drugs Innovation and Development,Chinese government,China,Government,1
+National Institutes of Health (NIH) for Regional Centers of Excellence for Biodefense and Emerging Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Neurological Disorders & Stroke (NINDS)),US NIH (other institutes),United States,Government,1
+"National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services, under NIAID's Preclinical Services",US NIH (NIAID),United States,Government,1
+National Institute of Allergy and Infectious Diseases/NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Diabetes & Digestive & Kidney Diseases (NIDDK)),US NIH (other institutes),United States,Government,1
+National Institute of General Medical Sciences (NIGMS)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of General Medical Sciences (NIGMS)),US NIH (other institutes),United States,Government,1
+National Institute of General Medical Sciences from the National Institutes of Health(General Electric),US NIH (other institutes),United States,Government,1
+National Institute of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+National Institute of Allergy and Infectious Diseases (NIH/NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institutes of Health Grants(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+National Institute of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+National Institute of Health/National Cancer Institute(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Cancer Institute (NCI)),US NIH (other institutes),United States,Government,1
+National Institute ofAllergy and Infectious Diseases of the National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+"National Institutes of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH)",US NIH (NIAID),United States,Government,1
+National Institutes of Allergy and Infectious Diseases-Small Business Innovation Research Grant,Other / unclassified,Unknown,Unknown,1
+National Institutes of Health (NIH,US NIH (other institutes),United States,Government,1
+National Institutes of Health (NIH) (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+"Chemical, Biological, Radiological, and Nuclear (CBRN) Research and Technology Initiative (CRTI)",Other / unclassified,Unknown,Unknown,1
+NSF/NIH-EID,US NIH (other institutes),United States,Government,1
+NSFC Innovative Research Group,US National Science Foundation,United States,Government,1
+NSFC(National Natural Science Foundation of China (NSFC)),US National Science Foundation,United States,Government,1
+"National Institutes of Health (NIH), i.e., National Heart, Lung, and Blood Institute (NHLBI)",US NIH (other institutes),United States,Government,1
+National Institutes of Health (NIH)/National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institutes of Health (NIH): National Institute of Allergy and Infectious Diseases (NIAID)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+National Institutes of Health (USA) grant(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+One Health Central and Eastern Africa through the One Health Graduate Fellowship program,African funders,Africa,Government,1
+Norwegian Agency for Development Cooperation (NORAD),Other / unclassified,Unknown,Unknown,1
+Novartis(Novartis),Industry,Unknown,Industry,1
+Novo Nordisk(Novo Nordisk),Other / unclassified,Unknown,Unknown,1
+OMAFRA Alliance grant,Other / unclassified,Unknown,Unknown,1
+OVC PhD Scholarship,Other / unclassified,Unknown,Unknown,1
+Office of Naval Research/Defense Threat Reduction Agency Basic Research Program,US Department of Defense,United States,Government (defence),1
+Office of Polar Programs (OPP)(National Science Foundation (NSF)NSF - Directorate for Geosciences (GEO)),US National Science Foundation,United States,Government,1
+"National Institutes of Health: Department of Health and Human Services, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,1
+National Key Plan for Scientific Research and Development of China,Chinese government,China,Government,1
+National Key Research and Development of China,Chinese government,China,Government,1
+"Office of Science, Office of Basic Energy Sciences, of the DOE(United States Department of Energy (DOE))",US Department of Energy,United States,Government,1
+"Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy(United States Department of Energy (DOE))",US Department of Energy,United States,Government,1
+Office of the Vice President for Research,Other / unclassified,Unknown,Unknown,1
+Okayama Medical Foundation,Other / unclassified,Unknown,Unknown,1
+Okayama University Assignment of Research Support Staff,Universities and hospitals,Unknown,Academic,1
+National Science Foundation Major Research Instrumentation (MRI) grant,Other / unclassified,Unknown,Unknown,1
+National Science Foundation NSF-CCF(National Science Foundation (NSF)NSF - Directorate for Computer & Information Science & Engineering (CISE)),US National Science Foundation,United States,Government,1
+"National Medical Research Council of Singapore(National Medical Research Council, Singapore)",UK government,United Kingdom,Government,1
+National Natural Science Foundation of China (NSFC)(National Natural Science Foundation of China (NSFC)),Chinese government,China,Government,1
+National Natural Sciences Foundation of China(National Natural Science Foundation of China (NSFC)),Chinese government,China,Government,1
+National Research Council Research Associateship Award at US Army Medical Research Institute of Infectious Diseases (USAMRIID),US Department of Defense,United States,Government (defence),1
+National Research Foundation South African Research Chair Grant UID,African funders,Africa,Government,1
+"National Institutes of Health, USA(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,1
+Natural Environment Research Council(UK Research & Innovation (UKRI)Natural Environment Research Council (NERC)),UK government,United Kingdom,Government,1
+Natural Science Foundation of China(National Natural Science Foundation of China (NSFC)),Chinese government,China,Government,1
+Natural Science Foundation of Guangdong Province(National Natural Science Foundation of Guangdong Province),Chinese government,China,Government,1
+Natural Sciences and Engineering Research Council of Canada (NSERC) Post-Graduate Doctoral Scholarship(Natural Sciences and Engineering Research Council of Canada (NSERC)),Canadian government,Canada,Government,1
+"National Research Foundation of Korea (NRF) - Korean government (MSIT)(National Research Foundation of KoreaMinistry of Science & ICT (MSIT), Republic of Korea)",Korean funders,South Korea,Government,1
+"National Research Foundation of Korea (NRF) - Ministry of Education(National Research Foundation of KoreaMinistry of Education (MOE), Republic of Korea)",Korean funders,South Korea,Government,1
+National Research Foundation of South Africa(National Research Foundation - South Africa),African funders,Africa,Government,1
+National Science Foundation Graduate Research Fellowship(National Science Foundation (NSF)),US National Science Foundation,United States,Government,1
+CEA(French Atomic Energy Commission),Other / unclassified,Unknown,Unknown,1
+CIHR New Investigator Award(Canadian Institutes of Health Research (CIHR)),Canadian government,Canada,Government,1
+CNAS of UC Riverside,Other / unclassified,Unknown,Unknown,1
+"CNR, Italy: Laboratori Congiunti Bilaterali Internazionali (Scienze Biomediche), Project: New vaccines against poverty-related and neglected tropical diseases",Italian funders,Italy,Government,1
+CPRIT,Other / unclassified,Unknown,Unknown,1
+Canada Foundation for Innovation(Canada Foundation for InnovationCGIAR),Canadian government,Canada,Government,1
+Canadian Center for Security Science,Other / unclassified,Unknown,Unknown,1
+CBBI T32,Other / unclassified,Unknown,Unknown,1
+Centers for Disease Control and Prevention's Division of High Consequence Pathogens and Pathology,US CDC,United States,Government,1
+Centers for Disease Control and Prevention(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+"Centers for Disease Control and Prevention, Department of Health and Human Services, US Government",US CDC,United States,Government,1
+Carl Zeiss Stiftung,German government (other),Germany,Government,1
+Carver Charitable Trust,Other / unclassified,Unknown,Unknown,1
+Cedar Tree Foundation,Other / unclassified,Unknown,Unknown,1
+"Center for Infectious Disease Imaging (CIDI), Clinical Center, National Institute of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,1
+Center for Integration of Medicine and Innovative Technology (CIMIT),Other / unclassified,Unknown,Unknown,1
+Natural Sciences and Engineering Research Council of Canada(Natural Sciences and Engineering Research Council of Canada (NSERC)CGIAR),Canadian government,Canada,Government,1
+Netherlands Organization for Scientific Research (NWO)(Netherlands Organization for Scientific Research (NWO)),Dutch funders,Netherlands,Government,1
+Battelle Health and Life Sciences Independent Research and Development Program,Battelle Memorial Institute,United States,Private non-profit,1
+Battelle Memorial Institute (BMI)s,Battelle Memorial Institute,United States,Private non-profit,1
+"Battelle National Biodefense Insitute, Frederick, MD, USA",Battelle Memorial Institute,United States,Private non-profit,1
+Center for Investigating Viral Immunity and Antagonism (CIVIA),Other / unclassified,Unknown,Unknown,1
+Center for Research on Influenza Pathogenesis (CRIP),Other / unclassified,Unknown,Unknown,1
+Center of Excellence in Translational Research,Other / unclassified,Unknown,Unknown,1
+"Office of Research Infrastructure Programs, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,1
+Nomis Foundation,Other / unclassified,Unknown,Unknown,1
+North Carolina Coronavirus Relief Fund,Other / unclassified,Unknown,Unknown,1
+North Carolina Policy Collaboratory at the University of North Carolina at Chapel Hill,Universities and hospitals,Unknown,Academic,1
+"Northeast Biodefense Center-Lipkin, PI",US Department of Defense,United States,Government (defence),1
+Northern Advancement Centre for Science and Technology (NOASTEC) Foundation,Other / unclassified,Unknown,Unknown,1
+Norwegian Agency for Development Cooperation,Other / unclassified,Unknown,Unknown,1
+Natural Sciences and Engineering Research Council of Canada Industrial RD Fellowship,Canadian government,Canada,Government,1
+"PANDORA-ID-NET consortium - European, and Developing Countries Clinical Trials Partnership (EDCTP2) programme (EDCTP)",European Union,European Union,Multilateral,1
+PANDORA-ID-NET of the European and Developing Countries Clinical Trials Partnership,European Union,European Union,Multilateral,1
+PRESTO from Japan Science and Technology Agency,Japanese government,Japan,Government,1
+PRIN 2017 NanoTechVax Tackling biological barriers to antigen delivery by nanotechnological vaccines,Other / unclassified,Unknown,Unknown,1
+Pacific Northwest Regional Center for Excellence Grant,Other / unclassified,Unknown,Unknown,1
+Pacific Southwest Regional Center of Excellence (NIH Grant),US NIH (other institutes),United States,Government,1
+Paul G Allen Family Foundation,Other / unclassified,Unknown,Unknown,1
+Saint Luke University (Japan),Universities and hospitals,Unknown,Academic,1
+Public Health Service institutional research training award,Other / unclassified,Unknown,Unknown,1
+Pfizer(Pfizer),Industry,Unknown,Industry,1
+"Portico Engineers Ltd, UK.",Industry,Unknown,Industry,1
+Postgraduate Research Participation Program,Other / unclassified,Unknown,Unknown,1
+PraesensBio of Lincoln,Other / unclassified,Unknown,Unknown,1
+Prevention B.V.,Other / unclassified,Unknown,Unknown,1
+"Program for Leading Graduate Schools from MEXT, Japan",Japanese government,Japan,Government,1
+"Ontario Ministry of Research, Innovation and Science Early Researcher Award",Other / unclassified,Unknown,Unknown,1
+"RAPIDD programme of the Science and Technology Directorate, Department of Homeland Security(United States Department of Homeland Security (DHS))",US Homeland Security,United States,Government (defence),1
+"Rega Foundation, KU Leuven",Belgian funders,Belgium,Government,1
+Region V 'Great Lakes' and Region X 'Pacific Northwest' Regional Centers for Excellence for Biodefense and Emerging Infectious Disease Research (RCE) Program (NIH),US NIH (other institutes),United States,Government,1
+Region V Great Lakes Regional Center of Excellence (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+Regional Government of Andalusia(Junta de Andalucia),Other / unclassified,Unknown,Unknown,1
+"Program of Founding Research Centers for Emerging and Reemerging Infectious Diseases(Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT))",Japanese government,Japan,Government,1
+Program of RAS Fundamentals of Technology of Nanostructures and Nanomaterials,Other / unclassified,Unknown,Unknown,1
+Public Health Agency of Canada (PHAC) - Canadian Safety and Security Program (CSSP),Canadian government,Canada,Government,1
+CBBI fellowship - National Institutes of Health Grant(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+New England Primate Center,Other / unclassified,Unknown,Unknown,1
+New England Regional Center for Excellence/Biodefense and Emerging Infectious Disease,Other / unclassified,Unknown,Unknown,1
+New England Regional Center of Excellence-Kasper,Other / unclassified,Unknown,Unknown,1
+New England Regional Center of Excellence-Kasper)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Neurological Disorders & Stroke (NINDS)),US NIH (other institutes),United States,Government,1
+"New Iberia Research Center, University of Louisiana at Lafayette",Universities and hospitals,Unknown,Academic,1
+"Queensland Government Department of Science, Information Technology, Innovation and the Arts",Other / unclassified,Unknown,Unknown,1
+"RAPIDD program of the Science & Technology Directorate, Department of Homeland Security(United States Department of Homeland Security (DHS))",US Homeland Security,United States,Government (defence),1
+"Research and Policy for Infectious Disease Dynamics (RAPIDD) program of the Science and Technology Directorate, Department of Homeland Security and Fogarty International Center, National Institutes of Health",US NIH (other institutes),United States,Government,1
+Research and Policy for Infectious Disease Dynamics program of the Science and Technology Directorate,Other / unclassified,Unknown,Unknown,1
+"Research and Technology Directorate, Edgewood Chemical Biological Center, Research Development and Engineering Command, US Army",US Department of Defense,United States,Government (defence),1
+"South African Research Chairs Initiative of the Department of Science and Technology and National Research Foundation, South Africa",African funders,Africa,Government,1
+Southeast Regional Center of Excellence for Emerging Infections and Biodefense(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+Southern African Center for Infectious Diseases Surveillance,African funders,Africa,Government,1
+Southwest Foundation Forum,Other / unclassified,Unknown,Unknown,1
+Southwest Foundation Forum Grant,Other / unclassified,Unknown,Unknown,1
+Rodney Dean and Cornelia Hayes Mackey Endowment Fund,Other / unclassified,Unknown,Unknown,1
+Royal Society Wolfson Research Merit award(Royal Society of London),Other / unclassified,Unknown,Unknown,1
+Russian Foundation Research,Russian government,Russia,Government,1
+Research Facilities Improvement Program(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Center for Research Resources (NCRR)),US NIH (other institutes),United States,Government,1
+Research Foundation of Guangdong Medical University,Chinese government,China,Government,1
+Research Foundation-Flanders(FWO),Belgian funders,Belgium,Government,1
+Research Participation Program at the Centers for Disease Control and Prevention (CDC),US CDC,United States,Government,1
+Research Program on Emerging and Re-emerging Infectious Diseases,Other / unclassified,Unknown,Unknown,1
+SECOM Science and Technology Foundation,Other / unclassified,Unknown,Unknown,1
+SEI Group CSR Foundation,Other / unclassified,Unknown,Unknown,1
+SPARC grant from the Broad Institute,Other / unclassified,Unknown,Unknown,1
+SRI International,Other / unclassified,Unknown,Unknown,1
+Rhodes Scholarship,Other / unclassified,Unknown,Unknown,1
+Robert A. Welch Foundation(The Welch Foundation),Other / unclassified,Unknown,Unknown,1
+"Robert Koch Institute, DFG",German Research Foundation (DFG),Germany,Government,1
+Roche/Achievement Rewards for College Scientists (ARCS) program,Industry,Unknown,Industry,1
+San Antonio Area Foundation,Other / unclassified,Unknown,Unknown,1
+Sanofi Pasteur,Industry,Unknown,Industry,1
+"Santen, Inc",Industry,Unknown,Industry,1
+"Sarepta Therapeutics, Cambridge, MA",Industry,Unknown,Industry,1
+Saskatchewan Health Research Foundation (SHRF),Other / unclassified,Unknown,Unknown,1
+Schering Foundation,Other / unclassified,Unknown,Unknown,1
+Ryobi Teien Memory Foundation(Ryobi Teien Memory Foundation),Other / unclassified,Unknown,Unknown,1
+SAB/ESF,Other / unclassified,Unknown,Unknown,1
+U.S. Army(United States Department of DefenseUnited States Army),US Department of Defense,United States,Government (defence),1
+U.S. CDC(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+U.S. D.O.E.(United States Department of Energy (DOE)),US Department of Energy,United States,Government,1
+U.S. DOE Office of Science Office of Basic Energy Sciences(United States Department of Energy (DOE)),US Department of Energy,United States,Government,1
+Texas Biomedical Research Institute Forum,US NIH (other institutes),United States,Government,1
+Texas Biomedical Research Institute Forum Award,US NIH (other institutes),United States,Government,1
+Tianjin Municipal Natural Science Foundation(Natural Science Foundation of Tianjin),Other / unclassified,Unknown,Unknown,1
+Total Gabon(Total SA),African funders,Africa,Government,1
+Scientific Plan of Guangdong Province,Chinese government,China,Government,1
+Scientific Plan of Guangzhou City,Other / unclassified,Unknown,Unknown,1
+Scientific Research & Innovation Support Fund,Other / unclassified,Unknown,Unknown,1
+Scientific Research Cultivation Project of Meizhou People's Hospital,Universities and hospitals,Unknown,Academic,1
+Translational Research Network Program from the Japan Agency for Medical Research and Development (AMED)(Japan Agency for Medical Research and Development (AMED)),Japanese government,Japan,Government,1
+U. S. Army Medical Research and Materiel Command(United States Department of DefenseUnited States ArmyU.S. Army Medical Research & Materiel Command (USAMRMC)),US Department of Defense,United States,Government (defence),1
+U.S. Army Con- tracting Command - Aberdeen Proving Ground - Natick Contracting Division,US Department of Defense,United States,Government (defence),1
+U.S. Army Research and Medical Command,US Department of Defense,United States,Government (defence),1
+Shandong Province Science and Technology Development Program,Other / unclassified,Unknown,Unknown,1
+Shandong University,Universities and hospitals,Unknown,Academic,1
+Shanghai Municipal Education Commission (the Eastern Scholar Project),Chinese government,China,Government,1
+Shanghai Municipal Science and Technology Commission(Science & Technology Commission of Shanghai Municipality (STCSM)),Chinese government,China,Government,1
+Shin-Nihon of Advanced Medical Research,Other / unclassified,Unknown,Unknown,1
+Science and Technology Office for Chemical and Biological Defense of the Defense Threat Reduction Agency,US Department of Defense,United States,Government (defence),1
+Science and Technology Research Partnership for Sustainable Development,Other / unclassified,Unknown,Unknown,1
+Science and Technology Research Partnership for Sustainable Development (SATREPS),Other / unclassified,Unknown,Unknown,1
+"Southwest National Primate Research Center from the Office of Research Infrastructure Programs, National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA)",US NIH (other institutes),United States,Government,1
+Sigrid Juselius Foundation(Sigrid Juselius Foundation),Other / unclassified,Unknown,Unknown,1
+"Singapore MINDEF grant(Ministry of Defence, Singapore)",Singapore government,Singapore,Government,1
+Sitaraman Family Foundation,Other / unclassified,Unknown,Unknown,1
+Slovak Grant Agency(Vedecka grantova agentura MSVVaS SR a SAV (VEGA)),Other / unclassified,Unknown,Unknown,1
+Slovak Research and Development Agency(Slovak Research and Development Agency),Other / unclassified,Unknown,Unknown,1
+"Section of Virology, Department of Biomedical Sciences and Veterinary Public Health, SLU",Other / unclassified,Unknown,Unknown,1
+Seed Funding from the Icahn School of Medicine at Mount Sinai,Universities and hospitals,Unknown,Academic,1
+UK Government,Other / unclassified,Unknown,Unknown,1
+UK Ministry of Defence,Other / unclassified,Unknown,Unknown,1
+UK NIHR(National Institute for Health Research (NIHR)),UK government,United Kingdom,Government,1
+UK aid from the UK Government(CGIAR),Other / unclassified,Unknown,Unknown,1
+UK government,Other / unclassified,Unknown,Unknown,1
+UNAH,Other / unclassified,Unknown,Unknown,1
+U.S. NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+U.S. National Institute of Allergy and Infectious Diseases (NIAID) Division of Intramural Research,US NIH (NIAID),United States,Government,1
+"US Army Joint Program Executive Office for Chemical, Biological, Radiological, and Nuclear Defense",US Department of Defense,United States,Government (defence),1
+US Army Medical Research Acquisition,US Department of Defense,United States,Government (defence),1
+US Army Medical Research Acquisition Activity,US Department of Defense,United States,Government (defence),1
+"US Army Medical Research and Material Command administered by the Oak Ridge Institute for Science and Education, a Stanford URP Major Grant",US Department of Defense,United States,Government (defence),1
+US Army Medical Research and Material Command(United States Department of DefenseUnited States ArmyU.S. Army Medical Research & Materiel Command (USAMRMC)),US Department of Defense,United States,Government (defence),1
+US Army Medical Research and Materiel Command(United States Department of DefenseUnited States ArmyU.S. Army Medical Research & Materiel Command (USAMRMC)),US Department of Defense,United States,Government (defence),1
+US Centers for Disease Control and Prevention (CDC)(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA),US CDC,United States,Government,1
+"UK Department for Environment, Food and Rural Affairs (Defra)(Department for Environment, Food & Rural Affairs (DEFRA))",Other / unclassified,Unknown,Unknown,1
+"Stanley M. Truhlsen Family Foundation, Inc.",Industry,Unknown,Industry,1
+State of New South Wales,Other / unclassified,Unknown,Unknown,1
+State of Queensland under the National Hendra Virus Research Program through the Rural Industries Research and Development Corporation,Industry,Unknown,Industry,1
+Statens Serum Institut,Other / unclassified,Unknown,Unknown,1
+Strategic Priority Research Program of the Chinese Academy of Sciences (CAS),Chinese government,China,Government,1
+Strategic Priority Research Program of the Chinese Academy of Sciences(Chinese Academy of Sciences),Chinese government,China,Government,1
+Swedish Civil Contingencies Agency,Swedish funders,Sweden,Government,1
+US Agency for International Development (USAID) Emerging Pandemic Threats PREDICT project(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+Transition to Scale award,Other / unclassified,Unknown,Unknown,1
+Translational Medical Technologies,Other / unclassified,Unknown,Unknown,1
+TMTI under USAMRIID project,US Department of Defense,United States,Government (defence),1
+"Taif University, Taif, Saudi Arabia",Saudi funders,Saudi Arabia,Government,1
+Targeted Acquisition of Reference Materials Augmenting Capabilities Initiative,Other / unclassified,Unknown,Unknown,1
+Technical Support Working Group (TSWG),Other / unclassified,Unknown,Unknown,1
+Tekmira Pharmaceuticals,Industry,Unknown,Industry,1
+Texas A&M High Performance Research Computing (HPRC),Other / unclassified,Unknown,Unknown,1
+US National Institutes of Health Intramural Research Program(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+USAID Emerging Pandemic Threats PREDICT program(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+USAID PREDICT program,US Agency for International Development,United States,Government,1
+US Department of Defense(United States Department of Defense),US Department of Defense,United States,Government (defence),1
+US Department of Energy (DOE)(United States Department of Energy (DOE)),US Department of Energy,United States,Government,1
+US Department of Energy(United States Department of Energy (DOE)),US Department of Energy,United States,Government,1
+"US Department of Energy, Office of Biological and Environmental Research(United States Department of Energy (DOE))",US Department of Energy,United States,Government,1
+"US Department of Health and Human Services, NIH",US NIH (other institutes),United States,Government,1
+UT MDACC Protein Array & Analysis Core (PAAC) CPRIT Grant,Other / unclassified,Unknown,Unknown,1
+"UT MDACC Protein Array & Analysis Core (PAAC) CPRIT Grant, Biomedical Research Council of A* STAR and resources of the National Supercomputing Centre, Singapore",UK government,United Kingdom,Government,1
+UTRGV,Other / unclassified,Unknown,Unknown,1
+UVRI,Other / unclassified,Unknown,Unknown,1
+US NIH(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+US National Human Genome Research Institute(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Human Genome Research Institute (NHGRI)),US NIH (other institutes),United States,Government,1
+US National Institute of Allergy and Infectious Diseases(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+US National Institutes of Health (NIH)(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+"U.S. Department of Defense, under the Battelle(United States Department of Defense)",US Department of Defense,United States,Government (defence),1
+"U.S. Department of Energy, Office of Biological and Environmental Research(United States Department of Energy (DOE))",US Department of Energy,United States,Government,1
+"U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences(United States Department of Energy (DOE))",US Department of Energy,United States,Government,1
+U.S. Government,Other / unclassified,Unknown,Unknown,1
+U.S. NIAID(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+USAID through the One Health Workforce project,US Agency for International Development,United States,Government,1
+USAID(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+UT Health Cancer Center (NIH/NCI),US NIH (other institutes),United States,Government,1
+UCGHI,Other / unclassified,Unknown,Unknown,1
+"UIC Center for Clinical and Translational Science through a grant from the National Institutes of Health, National Center for Advancing Translational Sciences",US NIH (other institutes),United States,Government,1
+UIC Center for Clinical and Translational Science via UICentre,Other / unclassified,Unknown,Unknown,1
+UICentre via NIH via UICentre,US NIH (other institutes),United States,Government,1
+"UK Department for Environment, Food and Rural Affairs (Defra) project(Department for Environment, Food & Rural Affairs (DEFRA))",Other / unclassified,Unknown,Unknown,1
+U.S. Defense Threat Reduction Agency (DTRA)(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+U.S. Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+U.S. Department of Defense (DoD) Joint Program Executive Office Chemical-Biological Defense (JPEO-CBD) Medical Countermeasure Systems' Joint Vaccine Acquisition Program (MCS-JVAP),US Department of Defense,United States,Government (defence),1
+Vaccine Research Center(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USANIH National Institute of Allergy & Infectious Diseases (NIAID)),US NIH (NIAID),United States,Government,1
+"Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia(United States Department of Health & Human ServicesCenters for Disease Control & Prevention - USA)",US CDC,United States,Government,1
+Virxsys Co.,Other / unclassified,Unknown,Unknown,1
+AMED Research Program on Emerging and Re-emerging Infectious Disease grants,Japanese government,Japan,Government,1
+'Emmy Noether' Fellowship from Deutsche Forschungsgemeinschaft(German Research Foundation (DFG)),German Research Foundation (DFG),Germany,Government,1
+AMED Research Program on HIV/AIDS,Japanese government,Japan,Government,1
+project Kardiovaskularni system: od modelu pres terapii k prevenci,Other / unclassified,Unknown,Unknown,1
+University of Iowa,Universities and hospitals,Unknown,Academic,1
+Young Elite Scientist Sponsorship Program of CAST,Other / unclassified,Unknown,Unknown,1
+Wellcome Trust Grant(Wellcome Trust),Wellcome Trust,United Kingdom,Philanthropy,1
+Wellcome Trust of Great Britain(Wellcome Trust),Wellcome Trust,United Kingdom,Philanthropy,1
+Wellcome Trust through the Artic Network project(Wellcome Trust),Wellcome Trust,United Kingdom,Philanthropy,1
+Wellcome Trust under African Institutions Initiative(Wellcome Trust),Wellcome Trust,United Kingdom,Philanthropy,1
+Wellcome Trust(Wellcome Trust),Wellcome Trust,United Kingdom,Philanthropy,1
+Werner Siemens fellowship,Other / unclassified,Unknown,Unknown,1
+Whitehead Fellows Program,Other / unclassified,Unknown,Unknown,1
+"government of Gabon, Total-Fina-Elf Gabon",African funders,Africa,Government,1
+project CEITEC - Central European Institute of Technology from European Regional Development Fund,European Union,European Union,Multilateral,1
+AMED Japanese Initiative for Progress of Research on Infectious Disease for global Epidemic,Japanese government,Japan,Government,1
+William J. Fulbright Foundation,Other / unclassified,Unknown,Unknown,1
+William and Ella Owens Medical Research Foundation,Other / unclassified,Unknown,Unknown,1
+World Bank project,UN agencies,International,Multilateral,1
+World Bank through the Uganda National Council of Science and Technology Millennium Science Initiative.,African funders,Africa,Government,1
+World Health Organization (WHO) Collaborating Center for Arboviruses and Hemorrhagic Fever Viruses at the Bernhard Nocht Institute for Tropical Medicine,World Health Organization,International,Multilateral,1
+"US Department of Defense Cooperative Biological Engagement Program through Metabiota, Inc., San Francisco, CA, USA",US Department of Defense,United States,Government (defence),1
+US Department of Defense Infectious Disease Clinical Research Program,US Department of Defense,United States,Government (defence),1
+US Department of Defense Threat Reduction Agency(United States Department of DefenseDefense Threat Reduction Agency),US Department of Defense,United States,Government (defence),1
+Youth Innovation Promotion Association CAS,Chinese government,China,Government,1
+Zhejiang University special scientific research fund for COVID-19 prevention and control,Universities and hospitals,Unknown,Academic,1
+amFAR,Other / unclassified,Unknown,Unknown,1
+emergency budgets of CDC,US CDC,United States,Government,1
+"federal funds from the National Cancer Institute (NCI), National Institutes of Health (NIH)",US NIH (other institutes),United States,Government,1
+Althea,Other / unclassified,Unknown,Unknown,1
+American Heart Association(American Heart Association),Other / unclassified,Unknown,Unknown,1
+American Society for Microbiology/CDC Postdoctoral Fellowship in Infectious Disease and Public Health Microbiology,US CDC,United States,Government,1
+American people through the United States Agency for International Development (USAID)(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+Academy of Finland (AKA)(Academy of FinlandFinnish Funding Agency for Technology & Innovation (TEKES)),Other / unclassified,Unknown,Unknown,1
+Administration for Strategic Preparedness and Response,Other / unclassified,Unknown,Unknown,1
+"Aethlon Medical Inc., San Diego, USA",Industry,Unknown,Industry,1
+African Academy of Sciences (AAS)'s Alliance for Accelerating Excellence in Science in Africa (AESA),African funders,Africa,Government,1
+Arnold and Mabel Beckman Foundation,Other / unclassified,Unknown,Unknown,1
+"Assistant Secretary for Preparedness and Response, Biomedical Advanced Research and Development Authority,",US HHS (BARDA / ASPR),United States,Government,1
+Association for Research in Vision and Ophthalmology Mallinckrodt Foundation Young Investigator Award,Other / unclassified,Unknown,Unknown,1
+Austrian Science Fund (FWF)(Austrian Science Fund (FWF)),Other / unclassified,Unknown,Unknown,1
+BARDA,US HHS (BARDA / ASPR),United States,Government,1
+BBSRC(UK Research & Innovation (UKRI)Biotechnology and Biological Sciences Research Council (BBSRC)),UK government,United Kingdom,Government,1
+Alborada Trust,Other / unclassified,Unknown,Unknown,1
+Aldevron,Other / unclassified,Unknown,Unknown,1
+Uganda Ministry of Health,African funders,Africa,Government,1
+Uganda Red Cross,African funders,Africa,Government,1
+Volkswagen Foundation(Volkswagen),Other / unclassified,Unknown,Unknown,1
+W. M. Keck Center for Nanoscale Optofluidics at UC Santa Cruz,Other / unclassified,Unknown,Unknown,1
+WHO(World Health Organization),World Health Organization,International,Multilateral,1
+Wanda Markotter (Department of Science and Innovation),Other / unclassified,Unknown,Unknown,1
+Washington University Chancellor's Fellowship Program,Universities and hospitals,Unknown,Academic,1
+Ara Parseghian Medical Research Foundation,Other / unclassified,Unknown,Unknown,1
+United States Agency for International Development Emerging Pandemic Threats(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+United States Agency for International Development(United States Agency for International Development (USAID)),US Agency for International Development,United States,Government,1
+United States Army(United States Department of DefenseUnited States Army),US Department of Defense,United States,Government (defence),1
+"United States Centres for Disease Control and Prevention (CDC), Ministry of Health of Uganda",US CDC,United States,Government,1
+United States Department of Health and Human Services Office of the Assistant Secretary for Preparedness and Response,US HHS (BARDA / ASPR),United States,Government,1
+United States National Institutes of Health(United States Department of Health & Human ServicesNational Institutes of Health (NIH) - USA),US NIH (other institutes),United States,Government,1
+United States of America by Joint Science and Technology Office for Chemical and Biological Defense (JSTO-CBD) of the Defense Threat Reduction Agency (DTRA),US Department of Defense,United States,Government (defence),1
+"Unither Virology, LLC",Industry,Unknown,Industry,1
