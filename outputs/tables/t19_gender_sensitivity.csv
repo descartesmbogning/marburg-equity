@@ -1,0 +1,16 @@
+analysis,position,n,pct_women,ci_lo,ci_hi
+Main analysis,All,5497,35.1,33.9,36.4
+Main analysis,First,658,41.6,37.9,45.4
+Main analysis,Last,642,19.6,16.7,22.9
+Gender-API accuracy >= 80%,All,4939,34.5,33.2,35.8
+Gender-API accuracy >= 80%,First,596,41.4,37.6,45.4
+Gender-API accuracy >= 80%,Last,571,17.7,14.8,21.0
+Excluding East Asia & Pacific authors,All,5050,35.8,34.5,37.1
+Excluding East Asia & Pacific authors,First,606,42.9,39.0,46.9
+Excluding East Asia & Pacific authors,Last,580,19.8,16.8,23.3
+Unclassified counted as women (upper bound),All,5700,37.5,36.2,38.7
+Unclassified counted as women (upper bound),First,684,43.9,40.2,47.6
+Unclassified counted as women (upper bound),Last,660,21.8,18.8,25.1
+Unclassified counted as men (lower bound),All,5700,33.9,32.7,35.1
+Unclassified counted as men (lower bound),First,684,40.1,36.5,43.8
+Unclassified counted as men (lower bound),Last,660,19.1,16.3,22.3

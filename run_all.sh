@@ -9,4 +9,5 @@ python s03_topics.py
 python s04_analysis.py
 python s05_figures.py
 python s06_export_public.py
+python s07_sensitivity.py
 echo "Done. See outputs/tables and outputs/figures."

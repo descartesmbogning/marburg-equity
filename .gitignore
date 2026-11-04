@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Draft manuscript files stay private until submission
+submission/
+*.zip

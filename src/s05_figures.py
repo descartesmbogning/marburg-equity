@@ -148,3 +148,30 @@ ax.set_title("The 'funded papers are less cited' result disappears", loc="left")
 ax.grid(axis="y", visible=False)
 out(fig, "fig6_funding_citations_models")
 print(sorted(p.name for p in FIGURES.glob("*.png")))
+
+# ---------------------------------------------------------------- Supplementary Fig S1: study flow
+fig, ax = plt.subplots(figsize=(5.6, 4.6)); ax.axis("off"); ax.grid(False)
+kn = pd.read_csv(TABLES / "key_numbers.csv").set_index("key")["value"]
+boxes = [
+    (0.5, 0.92, "Web of Science Core Collection search\n(exported 22 Feb 2023): 1,533 records"),
+    (0.5, 0.70, f"English articles, reviews and letters\n{int(kn['records_total'])} records (1968-2023)"),
+    (0.5, 0.48, f"Published 2008 to Feb 2023\n{int(kn['papers_window'])} papers, {int(kn['authorships']):,} authorships"),
+    (0.2, 0.18, f"Gender analysis\n{kn['authorships_classified_pct']}% of authorships classified\n(Gender-API)"),
+    (0.8, 0.18, f"Local-leadership analysis\n{int(kn['papers_about_africa'])} papers about an African country\n({int(kn['papers_country_in_title'])} name it in the title)"),
+]
+side = [(0.88, 0.81, "601 excluded: other document\ntypes or languages"),
+        (0.88, 0.59, f"{int(kn['records_total']) - int(kn['papers_window'])} excluded: published before 2008\n(funding not indexed)")]
+for x, y, t in boxes:
+    ax.text(x, y, t, ha="center", va="center", fontsize=8, color=INK,
+            bbox=dict(boxstyle="round,pad=0.5", fc="#f4f3f0", ec=MUTED, lw=0.8))
+for x, y, t in side:
+    ax.text(x, y, t, ha="center", va="center", fontsize=7.5, color=INK2,
+            bbox=dict(boxstyle="round,pad=0.4", fc="white", ec=MUTED, lw=0.8, ls="--"))
+for y0, y1 in [(0.87, 0.75), (0.65, 0.53)]:
+    ax.annotate("", (0.5, y1), (0.5, y0), arrowprops=dict(arrowstyle="-|>", color=INK2, lw=0.9))
+for y, xe in ((0.81, 0.638), (0.59, 0.600)):
+    ax.annotate("", (xe, y), (0.5, y), arrowprops=dict(arrowstyle="-|>", color=INK2, lw=0.9))
+for x in (0.2, 0.8):
+    ax.annotate("", (x, 0.25), (0.5, 0.43), arrowprops=dict(arrowstyle="-|>", color=INK2, lw=0.9))
+ax.set_xlim(0, 1.08); ax.set_ylim(0.05, 1)
+out(fig, "figS1_study_flow")

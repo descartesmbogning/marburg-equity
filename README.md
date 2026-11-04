@@ -39,8 +39,9 @@ pip install -r requirements.txt
 | 2 | `src/s02_enrich.py` | Adds World Bank region and income, harmonises funders, tags African study countries, tags WHO priority themes |
 | 3 | `src/s03_topics.py` | LDA topic model; the number of topics (k = 10) is chosen by c_v coherence |
 | 4 | `src/s04_analysis.py` | Proportions with Wilson 95% CIs, chi-square or Fisher tests, logistic and negative binomial regressions |
-| 5 | `src/s05_figures.py` | Six figures (PNG 300 dpi + PDF) |
+| 5 | `src/s05_figures.py` | Four main and three supplementary figures (PNG 300 dpi + PDF) |
 | 6 | `src/s06_export_public.py` | De-identified public dataset |
+| 7 | `src/s07_sensitivity.py` | Sensitivity analyses of gender inference |
 
 ## Data
 
