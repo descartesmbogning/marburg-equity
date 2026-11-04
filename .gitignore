@@ -9,3 +9,4 @@ __pycache__/
 # Draft manuscript files stay private until submission
 submission/
 *.zip
+release/
