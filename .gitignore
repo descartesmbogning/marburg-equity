@@ -9,4 +9,5 @@ __pycache__/
 # Draft manuscript files stay private until submission
 submission/
 *.zip
-release/
+release/explorer/preview.html
+release/explorer/plotly.min.js

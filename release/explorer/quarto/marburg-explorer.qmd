@@ -1,0 +1,11 @@
+---
+title: "Marburg Research Explorer"
+description: "Who leads Marburg virus research, 2008–2023: gender, geography, funding and WHO priorities."
+page-layout: custom
+toc: false
+title-block-banner: false
+format:
+  html:
+    include-in-header: _explorer_head.html
+    include-after-body: _explorer_body.html
+---

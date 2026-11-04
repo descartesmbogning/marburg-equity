@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marburg Research Explorer · CognosX</title>
+<meta name="description" content="Explore who leads Marburg virus research, 2008–2023: gender, geography, funding and WHO research priorities. Aggregate data from 684 Web of Science papers.">
+<link rel="icon" type="image/png" href="data:image/png;base64,__FAVICON__">
+<!--HEAD_START-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script charset="utf-8" src="__PLOTLY_SRC__"></script>
+<style>
+.cx{--black:#0a0a0a;--ink:#141414;--muted:#5c5c5c;--line:#e6e3dd;--paper:#fff;--soft:#f7f5f0;--amber:#FEA500;--amber-ink:#9a5b00;
+  --c1:#C98000;--c2:#2F64B5;--c3:#C24A2E;--c4:#0E9A7E;--neutral:#9a9890;--r:10px;
+  font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--paper);line-height:1.5;font-size:16px}
+.cx *{box-sizing:border-box}
+.cx a{color:var(--amber-ink)}
+.cx .x-wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+.cx .x-mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
+.cx .x-gate{background:var(--amber);color:var(--black);font-size:13px;font-weight:600;text-align:center;padding:8px 16px}
+.cx .x-hero{background:var(--black);color:#fff;padding:40px 0 36px}
+.cx .x-hero img.x-logo{height:28px;display:block;margin-bottom:28px}
+.cx .x-eyebrow{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--amber)}
+.cx h2,.cx h3{border:0;padding:0}
+.cx .x-hero h1{color:#fff}
+.cx h1{font-size:clamp(28px,4.4vw,46px);line-height:1.1;font-weight:800;letter-spacing:-.02em;margin:10px 0 14px;max-width:880px;text-wrap:balance}
+.cx .x-hero p.x-lede{color:#cfcfcf;max-width:760px;margin:0;font-size:17px}
+.cx .x-kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:28px}
+.cx .x-kpi{border:1px solid #2a2a2a;border-radius:var(--r);padding:16px}
+.cx .x-kpi .x-v{font-size:32px;font-weight:700;letter-spacing:-.02em;color:#fff;font-variant-numeric:tabular-nums}
+.cx .x-kpi .x-v.x-accent{color:var(--amber)}
+.cx .x-kpi .x-l{font-size:14px;color:#e6e6e6;margin-top:2px}
+.cx .x-kpi .x-n{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:#9a9a9a;margin-top:8px}
+.cx .x-bar{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.cx .x-bar .x-wrap{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;padding-top:12px;padding-bottom:12px}
+.cx .x-bar label{font-size:13px;color:var(--muted);display:flex;align-items:center;gap:8px}
+.cx select{max-width:360px;font:inherit;font-size:14px;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:6px 12px;background:#fff}
+.cx button{font:inherit;font-size:13.5px;font-weight:600;border-radius:999px;padding:7px 14px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}
+.cx button:hover{background:var(--soft)}
+.cx button.primary{background:var(--black);color:#fff;border-color:var(--black)}
+.cx button:focus-visible,.cx select:focus-visible{outline:2px solid var(--amber-ink);outline-offset:2px}
+.cx .x-bar .x-status{font-size:13px;color:var(--muted);margin-left:auto}
+.cx main{padding:28px 0 8px}
+.cx .x-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.cx .x-card{border:1px solid var(--line);border-radius:var(--r);padding:20px 20px 14px;background:#fff;min-width:0}
+.cx .x-card.x-wide{grid-column:1/-1}
+.cx .x-card .x-tag{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--amber-ink);letter-spacing:.06em;text-transform:uppercase}
+.cx .x-card h2{font-size:20px;line-height:1.25;font-weight:700;letter-spacing:-.01em;margin:6px 0 4px;text-wrap:balance}
+.cx .x-card .x-sub{font-size:14px;color:var(--muted);margin:0 0 8px}
+.cx .x-chart{width:100%;height:340px}
+.cx .x-chart.x-tall{height:400px}
+.cx .x-cap{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:8px;margin-top:6px}
+.cx .x-seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:2px;gap:2px;margin:4px 0 6px}
+.cx .x-seg button{border:0;padding:5px 12px;font-weight:500;white-space:nowrap}
+@media (max-width:520px){.cx .x-seg{flex-wrap:wrap;border-radius:16px}}
+.cx .x-seg button[aria-pressed=true]{background:var(--black);color:#fff}
+.cx .x-note{background:var(--soft);border-radius:8px;padding:10px 12px;font-size:13.5px;color:var(--ink);margin:6px 0}
+.cx .x-lower{display:grid;grid-template-columns:1.2fr 1fr;gap:20px;margin:20px 0 32px}
+.cx .x-lower h3{font-size:17px;margin:0 0 8px}
+.cx .x-lower ul{margin:0;padding-left:18px;font-size:14.5px}
+.cx .x-lower li{margin:4px 0}
+.cx .x-dl{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.cx .x-blank{background:#fff2c7;outline:1px dashed var(--amber-ink);padding:0 4px;border-radius:3px;font-family:"IBM Plex Mono",monospace;font-size:.92em}
+.cx .x-cite{font-size:14px;background:var(--soft);border-radius:8px;padding:12px;margin:8px 0}
+.cx footer{background:var(--black);color:#bdbdbd;padding:22px 0;font-size:13px}
+.cx footer .x-wrap{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:space-between;align-items:center}
+.cx footer b{color:var(--amber);font-weight:600}
+.cx footer a{color:#fff}
+@media (max-width:900px){.cx .x-kpis{grid-template-columns:repeat(2,1fr)}.cx .x-grid,.cx .x-lower{grid-template-columns:1fr}.cx .x-bar .x-status{margin-left:0;width:100%}}
+@media (max-width:520px){.cx .x-bar{position:static}.cx .x-bar label{width:100%}.cx .x-bar select{flex:1;min-width:0;max-width:100%}.cx .x-wrap{padding:0 16px}.cx .x-kpi .x-v{font-size:26px}.cx .x-chart{height:300px}.cx .x-chart.x-tall{height:420px}}
+</style>
+<!--HEAD_END-->
+</head>
+<body style="margin:0;background:#fff">
+<!--BODY_START-->
+<div class="cx" id="cx-explorer">
+
+  <header class="x-hero">
+    <div class="x-wrap">
+      <img class="x-logo" src="data:image/png;base64,__LOGO_LIGHT__" alt="CognosX">
+      <div class="x-eyebrow">Explorer · Marburg virus research · 2008–Feb 2023</div>
+      <h1>Women held one in five senior-author positions in Marburg virus research</h1>
+      <p class="x-lede">Who leads research on Marburg virus, who pays for it, and does it cover what WHO now asks for? Explore 684 papers from Web of Science, published before the 2023–2025 outbreaks.</p>
+      <div class="x-kpis" aria-live="polite">
+        <div class="x-kpi"><div class="x-v x-accent" id="k1">–</div><div class="x-l">of last (senior) authors were women</div><div class="x-n" id="k1n"></div></div>
+        <div class="x-kpi"><div class="x-v" id="k2">–</div><div class="x-l">of papers about an African country had a first author from that country</div><div class="x-n" id="k2n"></div></div>
+        <div class="x-kpi"><div class="x-v" id="k3">–</div><div class="x-l">of funded papers acknowledged a US funder</div><div class="x-n" id="k3n"></div></div>
+        <div class="x-kpi"><div class="x-v" id="k4">–</div><div class="x-l">of papers covered each WHO priority on care, trials, social science and capacity</div><div class="x-n" id="k4n"></div></div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="x-bar" aria-label="Filters">
+    <div class="x-wrap">
+      <label>From <select id="y0" aria-label="First year"></select></label>
+      <label>to <select id="y1" aria-label="Last year"></select></label>
+      <label>Topic <select id="topic" aria-label="Research topic"></select></label>
+      <button id="reset" type="button">Reset</button>
+      <span class="x-status" id="status"></span>
+    </div>
+  </nav>
+
+  <main class="x-wrap">
+    <div class="x-grid">
+      <section class="x-card x-wide" aria-labelledby="h1t">
+        <div class="x-tag">1 · Gender</div>
+        <h2 id="h1t">–</h2>
+        <p class="x-sub">Share of women among first, last and all authors, by year. Hover for the 95% confidence interval and the number of authors.</p>
+        <div class="x-note" id="g-note" hidden>The topic filter does not change this chart. To protect authors' privacy, gender is shown only by year or only by topic, never both. See the topic panel on the right of the next row.</div>
+        <div id="c1" class="x-chart" role="img" aria-label=""></div>
+        <div class="x-cap" id="cap1"></div>
+      </section>
+
+      <section class="x-card" aria-labelledby="h2t">
+        <div class="x-tag">2 · Local leadership</div>
+        <h2 id="h2t">–</h2>
+        <p class="x-sub">Papers that name an African country in the title, abstract or keywords. Black marks: benchmark for infectious-disease research in Africa.</p>
+        <div id="c2" class="x-chart" role="img" aria-label=""></div>
+        <div class="x-cap" id="cap2"></div>
+      </section>
+
+      <section class="x-card" aria-labelledby="h5t">
+        <div class="x-tag">1b · Gender by topic, all years</div>
+        <h2 id="h5t">–</h2>
+        <p class="x-sub">Share of women among last authors in each research topic, 2008–Feb 2023.</p>
+        <div id="c5" class="x-chart" role="img" aria-label=""></div>
+        <div class="x-cap" id="cap5"></div>
+      </section>
+
+      <section class="x-card" aria-labelledby="h3t">
+        <div class="x-tag">3 · Funding</div>
+        <h2 id="h3t">–</h2>
+        <p class="x-sub">Funded papers by funder country (rows) and the last author's region (columns). A paper with funders from two countries counts in both rows.</p>
+        <div id="c3" class="x-chart x-tall" role="img" aria-label=""></div>
+        <div class="x-cap" id="cap3"></div>
+      </section>
+
+      <section class="x-card" aria-labelledby="h4t">
+        <div class="x-tag">4 · WHO research priorities</div>
+        <h2 id="h4t">–</h2>
+        <p class="x-sub">Share of papers tagged with each WHO 2025 Marburg priority. Compare a group with all papers.</p>
+        <div class="x-seg" role="group" aria-label="Group">
+          <button type="button" data-g="all" aria-pressed="true">All papers</button>
+          <button type="button" data-g="african_led" aria-pressed="false">African-led</button>
+          <button type="button" data-g="us_defence" aria-pressed="false">US defence-funded</button>
+        </div>
+        <div id="c4" class="x-chart x-tall" role="img" aria-label=""></div>
+        <div class="x-cap" id="cap4"></div>
+      </section>
+    </div>
+
+    <div class="x-lower">
+      <section class="x-card">
+        <h3>How to read this explorer</h3>
+        <ul>
+          <li><b>Last author</b> is usually the senior researcher who leads the work. <b>First author</b> usually did most of the work.</li>
+          <li><b>Gender</b> is inferred from first names with Gender-API (96.4% of authorships classified). It is binary and may be wrong for some names, especially East Asian names. It does not record how people identify. The share of women last authors stays between 17.7% and 21.8% across four checks.</li>
+          <li><b>“From that country”</b> means the author's address is in a country the paper names. <b>African-led</b> means the first or last author has an African address.</li>
+          <li><b>Funding</b> comes from Web of Science acknowledgements, which are indexed well only from 2008. That is why the data start in 2008.</li>
+          <li><b>WHO priorities</b> are tagged with a keyword list. This is transparent but approximate, and one paper can match several priorities.</li>
+          <li>Small groups give unstable numbers. When fewer than 10 papers match your filters, we show the count but not a percentage.</li>
+          <li>These are patterns, not causes. The data stop in February 2023, before the outbreaks in Equatorial Guinea, Tanzania, Rwanda and Ethiopia.</li>
+        </ul>
+      </section>
+      <section class="x-card">
+        <h3>Download the data</h3>
+        <p class="x-sub" style="margin:0">Aggregate counts only. No names and no author-level data. CC BY 4.0.</p>
+        <div class="x-dl" id="dl"></div>
+        <h3 style="margin-top:18px">Cite this work</h3>
+        <div class="x-cite" id="cite">Mbogning Fonkou MD, Bain LE, Bragazzi NL, Kong JD. Who leads Marburg virus research? Gender, geography and funding in authorship, 2008–2023. Preprint, 2026 (link coming soon).</div>
+        <div style="font-size:14px">Data: aggregate tables on this page (dataset DOI coming soon)<br>Code: <a href="https://github.com/descartesmbogning/marburg-equity">github.com/descartesmbogning/marburg-equity</a></div>
+        <div class="x-dl"><button type="button" id="copycite">Copy citation</button></div>
+        <p style="font-size:14px;margin:14px 0 0">Want an explorer like this for your own data? <a href="https://cal.com/cognosx">Book a call with CognosX</a>.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <div class="x-wrap"><span><b>CognosX</b> · Let science data speak.</span><span>Source: Web of Science Core Collection, exported 23 Feb 2023 · <a href="https://cognosx.ca">cognosx.ca</a></span></div>
+  </footer>
+</div>
+
+<script>
+(function(){
+const D = /*__DATA__*/null;
+const FINDINGS_CSV = /*__FINDINGS__*/"";
+const MIN_N = 10;
+const C = {c1:'#C98000',c2:'#2F64B5',c3:'#C24A2E',c4:'#0E9A7E',neutral:'#9a9890',ink:'#141414',muted:'#5c5c5c',grid:'#e6e3dd',
+  seq:['#fbe9c7','#f6cf85','#eeb043','#d98e0b','#b87500','#8f5a00','#5f3c00']};
+const $ = id => document.getElementById(id);
+const topics = D.meta.topics;
+const tLabel = t => (topics.find(x=>x.topic===+t)||{label:'Unassigned'}).label;
+const YEARS = [...new Set(D.papers_by_year_topic.map(r=>r.year))].sort((a,b)=>a-b);
+const yName = y => y===2022 ? '2022–23' : String(y);
+const rangeName = (a,b) => a===b ? yName(a) : (b===2022 ? `${a}–Feb 2023` : `${a}–${b}`);
+const WHO = {P1:'Reservoirs and spillover',P2:'Diagnostics',P3:'Epidemiology and surveillance',P4:'Biomarkers and pathogenesis',
+  P5:'Animal models',P6:'Medical countermeasures',P7:'Clinical care and infection prevention',P8:'Trials during outbreaks',
+  P9:'Social science and community',P10:'Collaboration and capacity',B1:'Basic virology (not WHO)',B2:'Biosecurity (not WHO)'};
+const GROUP_NAME = {all:'all papers',african_led:'African-led papers',us_defence:'US defence-funded papers'};
+let S = {y0:YEARS[0], y1:YEARS[YEARS.length-1], topic:'all', group:'all'};
+
+// ---------- helpers
+function wilson(k,n){ if(!n) return [NaN,NaN]; const z=1.959964,p=k/n,d=1+z*z/n,c=(p+z*z/(2*n))/d,h=z*Math.sqrt(p*(1-p)/n+z*z/(4*n*n))/d; return [100*(c-h),100*(c+h)]; }
+const pct = (k,n) => n ? 100*k/n : NaN;
+const f1 = x => isFinite(x) ? x.toFixed(1) : '–';
+const fmtN = n => n.toLocaleString('en');
+const inYears = r => r.year>=S.y0 && r.year<=S.y1;
+const inTopic = r => S.topic==='all' || r.topic===+S.topic;
+const sum = (rows,k) => rows.reduce((a,r)=>a+(r[k]||0),0);
+const scopeTxt = () => rangeName(S.y0,S.y1) + (S.topic==='all' ? '' : ` · topic: ${tLabel(S.topic)}`);
+const font = {family:'Inter, system-ui, sans-serif', size:12.5, color:C.ink};
+function layout(extra){ return Object.assign({font, margin:{l:48,r:12,t:10,b:44}, paper_bgcolor:'#fff', plot_bgcolor:'#fff',
+  hoverlabel:{bgcolor:'#0a0a0a',bordercolor:'#0a0a0a',font:{family:'Inter',color:'#fff',size:12.5}},
+  legend:{orientation:'h',x:0,y:1.12,font:{size:12.5}},
+  xaxis:{gridcolor:C.grid,linecolor:C.grid,zeroline:false,tickfont:{color:C.muted}},
+  yaxis:{gridcolor:C.grid,linecolor:C.grid,zeroline:false,tickfont:{color:C.muted}}}, extra||{}); }
+const CFG = {displayModeBar:false, responsive:true};
+const narrow = () => ($('c2').clientWidth||999) < 520;
+const TSHORT = {0:'Innate immunity',1:'Bat reservoirs',2:'Outbreaks, public health',3:'Antiviral drugs',4:'Diagnostics',5:'Vaccines, animal models',6:'Viral assembly',7:'Antibodies',8:'Genome, protein structure',9:'Disease overviews'};
+const WSHORT = {P1:'Reservoirs',P2:'Diagnostics',P3:'Epidemiology',P4:'Pathogenesis',P5:'Animal models',P6:'Countermeasures',P7:'Clinical care',P8:'Outbreak trials',P9:'Social science',P10:'Capacity',B1:'Basic virology',B2:'Biosecurity'};
+function draw(id, data, lay, title){ Plotly.react($(id), data, lay, CFG); $(id).setAttribute('aria-label', title); }
+function setTitle(id,t){ $(id).textContent = t; }
+
+// ---------- controls
+function fillControls(){
+  for (const sel of [$('y0'),$('y1')]) sel.innerHTML = YEARS.map(y=>`<option value="${y}">${yName(y)}</option>`).join('');
+  $('y0').value=S.y0; $('y1').value=S.y1;
+  $('topic').innerHTML = '<option value="all">All topics</option>' +
+    topics.map(t=>`<option value="${t.topic}">${t.label}</option>`).join('');
+  $('y0').onchange=e=>{S.y0=+e.target.value; if(S.y0>S.y1){S.y1=S.y0;$('y1').value=S.y1;} render();};
+  $('y1').onchange=e=>{S.y1=+e.target.value; if(S.y1<S.y0){S.y0=S.y1;$('y0').value=S.y0;} render();};
+  $('topic').onchange=e=>{S.topic=e.target.value; render();};
+  $('reset').onclick=()=>{S={y0:YEARS[0],y1:YEARS[YEARS.length-1],topic:'all',group:S.group}; fillControls(); render();};
+  document.querySelectorAll('.x-seg button').forEach(b=>b.onclick=()=>{S.group=b.dataset.g;
+    document.querySelectorAll('.x-seg button').forEach(x=>x.setAttribute('aria-pressed', x===b)); render();});
+}
+
+// ---------- KPIs
+function kpis(P, G, W){
+  const L = G.filter(r=>r.position==='Last'), lk=sum(L,'women'), ln=lk+sum(L,'men');
+  $('k1').textContent = ln>=MIN_N ? f1(pct(lk,ln))+'%' : '–';
+  const [lo,hi]=wilson(lk,ln); $('k1n').textContent = `95% CI ${f1(lo)}–${f1(hi)} · n=${fmtN(ln)} last authors` + (S.topic==='all'?'':' · all topics');
+  const aa=sum(P,'aa'), fl=sum(P,'aa_first_local');
+  $('k2').textContent = aa>=MIN_N ? f1(pct(fl,aa))+'%' : '–';
+  $('k2n').textContent = aa>=MIN_N ? `n=${aa} papers about an African country` : `only ${aa} papers – too few to show a share`;
+  const fu=sum(P,'funded'), us=sum(P,'us_funded');
+  $('k3').textContent = fu>=MIN_N ? f1(pct(us,fu))+'%' : '–';
+  $('k3n').textContent = `n=${fmtN(fu)} funded papers`;
+  const np = sum(P,'papers');
+  const sh = ['P7','P8','P9','P10'].map(c=>{const rows=W.filter(r=>r.code===c); return pct(sum(rows,'tagged'),sum(rows,'papers'));});
+  $('k4').textContent = np>=MIN_N ? `${f1(Math.min(...sh))}–${f1(Math.max(...sh))}%` : '–';
+  $('k4n').textContent = `n=${fmtN(np)} papers`;
+  $('status').textContent = `Showing ${fmtN(np)} of 684 papers · ${scopeTxt()}`;
+}
+
+// ---------- view 1: gender over time
+function viewGender(){
+  const G = D.gender_by_year.filter(r=>inYears(r));
+  const ser = [['Last','Last author',C.c1,3],['First','First author',C.c2,2],['All','All authors',C.neutral,2]].map(([pos,name,col,w])=>{
+    const rows=G.filter(r=>r.position===pos).sort((a,b)=>a.year-b.year);
+    return {type:'scatter',mode:'lines+markers',name,x:rows.map(r=>yName(r.year)),
+      y:rows.map(r=>r.suppressed?null:pct(r.women,r.women+r.men)),
+      customdata:rows.map(r=>{const n=r.women+r.men,[a,b]=wilson(r.women,n);return [f1(a),f1(b),n];}),
+      line:{color:col,width:w},marker:{size:pos==='Last'?7:5,color:col},
+      hovertemplate:`${name}, %{x}<br><b>%{y:.1f}% women</b><br>95% CI %{customdata[0]}–%{customdata[1]}<br>n=%{customdata[2]}<extra></extra>`};
+  });
+  const L=G.filter(r=>r.position==='Last'), F=G.filter(r=>r.position==='First');
+  const lp=pct(sum(L,'women'),sum(L,'women')+sum(L,'men')), fp=pct(sum(F,'women'),sum(F,'women')+sum(F,'men'));
+  const nl=sum(L,'women')+sum(L,'men');
+  const t=`Women held ${f1(lp)}% of last-author positions against ${f1(fp)}% of first-author positions, ${rangeName(S.y0,S.y1)}`;
+  setTitle('h1t',t);
+  draw('c1',ser,layout({yaxis:{title:{text:'Women (%)',font:{size:12,color:C.muted}},range:[0,70],gridcolor:C.grid,zeroline:false,tickfont:{color:C.muted},ticksuffix:'%'},
+    xaxis:{type:'category',gridcolor:'rgba(0,0,0,0)',linecolor:C.grid,tickfont:{color:C.muted}}}),t);
+  $('cap1').textContent = `Source: Web of Science, CognosX analysis. n=${fmtN(nl)} last authors with a gender result, ${rangeName(S.y0,S.y1)}. Gender inferred from first names (Gender-API). 2022–23 includes Jan–Feb 2023.`;
+  $('g-note').hidden = S.topic==='all';
+}
+
+// ---------- view 1b: gender by topic (all years)
+function viewGenderTopic(){
+  const rows = D.gender_by_topic.filter(r=>r.position==='Last' && r.topic>=0 && !r.suppressed)
+    .map(r=>({t:r.topic,label:tLabel(r.topic),short:narrow()?TSHORT[r.topic]:tLabel(r.topic),n:r.women+r.men,p:pct(r.women,r.women+r.men),ci:wilson(r.women,r.women+r.men)}))
+    .sort((a,b)=>a.p-b.p);
+  const all = D.gender_by_topic.filter(r=>r.position==='Last'), ap=pct(sum(all,'women'),sum(all,'women')+sum(all,'men'));
+  const hi=rows[rows.length-1], lo=rows[0];
+  const t = `Women's share of last authors ranged from ${f1(lo.p)}% (${lo.label.toLowerCase()}) to ${f1(hi.p)}% (${hi.label.toLowerCase()})`;
+  setTitle('h5t',t);
+  const sel = S.topic==='all' ? null : +S.topic;
+  draw('c5',[{type:'bar',orientation:'h',y:rows.map(r=>r.short),x:rows.map(r=>r.p),
+    marker:{color:rows.map(r=>sel===null||r.t===sel?C.c1:'#e9e4da')},
+    error_x:{type:'data',symmetric:false,array:rows.map(r=>r.ci[1]-r.p),arrayminus:rows.map(r=>r.p-r.ci[0]),color:'#8f8a80',thickness:1,width:0},
+    customdata:rows.map(r=>[f1(r.ci[0]),f1(r.ci[1]),r.n]),
+    hovertemplate:'%{y}<br><b>%{x:.1f}% women</b> last authors<br>95% CI %{customdata[0]}–%{customdata[1]}<br>n=%{customdata[2]}<extra></extra>'}],
+    layout({margin:{l:narrow()?150:250,r:16,t:18,b:40},showlegend:false,
+      xaxis:{range:[0,50],ticksuffix:'%',gridcolor:C.grid,zeroline:false,tickfont:{color:C.muted}},
+      yaxis:{automargin:true,tickfont:{size:12,color:C.ink}},
+      shapes:[{type:'line',x0:ap,x1:ap,yref:'paper',y0:0,y1:1,line:{color:C.ink,width:1,dash:'dot'}}],
+      annotations:[{x:ap,y:1.04,yref:'paper',text:`all topics ${f1(ap)}%`,showarrow:false,font:{size:11.5,color:C.muted},xanchor:'left'}]}),t);
+  $('cap5').textContent = `Source: Web of Science, CognosX analysis. n=${rows.reduce((a,r)=>a+r.n,0)} last authors, 2008–Feb 2023, by main LDA topic of the paper. Bars show 95% confidence intervals; wide bars mean small groups. Not filtered by year, to protect privacy.`;
+}
+
+// ---------- view 2: local leadership
+function viewLocal(P){
+  const aa=sum(P,'aa');
+  const items=[['aa_first_local','First author from the study country',null],['aa_last_local','Last author from the study country',null],
+    ['aa_first_african','First author from any African country',D.meta.benchmarks.first_african],['aa_last_african','Last author from any African country',D.meta.benchmarks.last_african]];
+  const ok = aa>=MIN_N;
+  const rows = items.map(([k,l,b])=>{const v=sum(P,k);return {l,v,p:pct(v,aa),ci:wilson(v,aa),b};});
+  const t = ok ? `Only ${f1(rows[0].p)}% of papers about an African country had a first author from that country, ${scopeTxt()}`
+               : `Only ${aa} papers about an African country match these filters – too few to show shares`;
+  setTitle('h2t',t);
+  if (narrow()) rows.forEach(r=>{r.l=r.l.replace(' from ','<br>from ');});
+  const ys = rows.map(r=>r.l).reverse(), rr=[...rows].reverse();
+  draw('c2', ok ? [
+    {type:'bar',orientation:'h',y:ys,x:rr.map(r=>r.p),marker:{color:rr.map((r,i)=>i>=2?C.c1:C.c2)},name:'Share of papers',
+      text:rr.map(r=>f1(r.p)+'%'),textposition:'inside',insidetextanchor:'start',textfont:{size:12.5,color:'#fff'},
+      error_x:{type:'data',symmetric:false,array:rr.map(r=>r.ci[1]-r.p),arrayminus:rr.map(r=>r.p-r.ci[0]),color:'#8f8a80',thickness:1,width:0},
+      customdata:rr.map(r=>[r.v,f1(r.ci[0]),f1(r.ci[1])]),
+      hovertemplate:`%{y}<br><b>%{x:.1f}%</b> (%{customdata[0]} of ${aa} papers)<br>95% CI %{customdata[1]}–%{customdata[2]}<extra></extra>`},
+    {type:'scatter',mode:'markers',y:rr.filter(r=>r.b).map(r=>r.l),x:rr.filter(r=>r.b).map(r=>r.b),name:'Benchmark',
+      marker:{symbol:'line-ns',size:22,line:{width:3,color:C.ink}},
+      hovertemplate:'Benchmark: %{x:.1f}%<br>African authors in infectious-disease research in Africa (Mbaye et al. 2019)<extra></extra>'}
+  ] : [], layout({margin:{l:narrow()?140:230,r:20,t:10,b:40},showlegend:false,bargap:.38,
+      xaxis:{range:[0,70],ticksuffix:'%',gridcolor:C.grid,zeroline:false,tickfont:{color:C.muted}},yaxis:{automargin:true,tickfont:{size:12.5}}}),t);
+  $('cap2').textContent = `Source: Web of Science, CognosX analysis. n=${aa} papers that name an African country, ${scopeTxt()}. Benchmark: Mbaye et al. 2019. Bars show 95% confidence intervals.`;
+}
+
+// ---------- view 3: funders heatmap
+function viewFunders(P){
+  const F = D.funder_flow.filter(r=>inYears(r)&&inTopic(r));
+  const rowsOrder=['United States','Japan','Germany','Canada','China','European Union','United Kingdom','Africa','Other / unknown'];
+  const colsOrder=['North America','Europe & Central Asia','East Asia & Pacific','Sub-Saharan Africa','Other regions','Unknown'];
+  const colLab={'North America':'North<br>America','Europe & Central Asia':'Europe &<br>C. Asia','East Asia & Pacific':'East Asia<br>& Pacific','Sub-Saharan Africa':'Sub-Saharan<br>Africa','Other regions':'Other<br>regions','Unknown':'Unknown'};
+  const cl = c => narrow() ? ({'North America':'N.Am','Europe & Central Asia':'Eur','East Asia & Pacific':'E.Asia','Sub-Saharan Africa':'SSA','Other regions':'Oth','Unknown':'Unk'})[c] : colLab[c];
+  const rl = r => narrow() ? ({'European Union':'EU','United Kingdom':'UK','Other / unknown':'Other'})[r]||r : r;
+  const colOf = r => colsOrder.includes(r) ? r : 'Other regions';
+  const z = rowsOrder.map(fc=>colsOrder.map(rg=>F.filter(r=>r.funder_country===fc && colOf(r.last_region)===rg).reduce((a,r)=>a+r.papers,0)));
+  const usTot = z[0].reduce((a,b)=>a+b,0), usNA = z[0][0], fu=sum(P,'funded'), us=sum(P,'us_funded');
+  const t = fu>=MIN_N ? `US funders backed ${f1(pct(us,fu))}% of funded papers; ${f1(pct(usNA,usTot))}% of those had a North American last author`
+                      : `Only ${fu} funded papers match these filters`;
+  setTitle('h3t',t);
+  const zmax=Math.max(1,...z.flat());
+  const seq=C.seq.map((c,i)=>[i/(C.seq.length-1),c]);
+  draw('c3',[{type:'heatmap',z,x:colsOrder.map(cl),y:rowsOrder.map(rl),colorscale:[[0,'#ffffff'],[0.0001,seq[0][1]],...seq.slice(1)],
+    zmin:0,zmax,xgap:2,ygap:2,showscale:false,
+    customdata:rowsOrder.map(fc=>colsOrder.map(rg=>[fc,rg])),
+    hovertemplate:'Funder: %{customdata[0]}<br>Last author: %{customdata[1]}<br><b>%{z} papers</b><extra></extra>'}],
+    layout({margin:{l:narrow()?96:120,r:6,t:10,b:60},xaxis:{side:'bottom',tickangle:0,tickfont:{size:11.5,color:C.muted},gridcolor:'rgba(0,0,0,0)'},
+      yaxis:{autorange:'reversed',tickfont:{size:12.5,color:C.ink},gridcolor:'rgba(0,0,0,0)'},
+      annotations:z.flatMap((row,i)=>row.map((v,j)=>({x:cl(colsOrder[j]),y:rl(rowsOrder[i]),text:v?String(v):'',showarrow:false,
+        font:{size:12,color:v>zmax*0.55?'#fff':C.ink}})))}),t);
+  $('cap3').textContent = `Source: Web of Science funding acknowledgements, CognosX analysis. n=${fmtN(fu)} funded papers, ${scopeTxt()}. “Africa” = any African funder.${narrow()?' N.Am = North America; Eur = Europe & Central Asia; SSA = sub-Saharan Africa.':''} Cells count papers; a paper can appear in more than one row.`;
+}
+
+// ---------- view 4: WHO priorities
+function viewWHO(){
+  const codes=['P1','P2','P3','P4','P5','P6','P7','P8','P9','P10','B1','B2'];
+  const base = D.who_priorities.filter(r=>inYears(r)&&inTopic(r));
+  const share = (grp,c) => {const rows=base.filter(r=>r.group===grp&&r.code===c); return {k:sum(rows,'tagged'),n:sum(rows,'papers')};};
+  const ys = codes.map(c=>`${c} ${narrow()?WSHORT[c]:WHO[c]}`).reverse();
+  const mk = (grp,col,name) => {const v=codes.map(c=>share(grp,c)).reverse(); return {type:'bar',orientation:'h',name,y:ys,
+    x:v.map(o=>o.n>=MIN_N?pct(o.k,o.n):null), marker:{color:v.map((o,i)=>col)},
+    customdata:v.map(o=>[o.k,o.n]),hovertemplate:`${name}<br>%{y}<br><b>%{x:.1f}%</b> (%{customdata[0]} of %{customdata[1]} papers)<extra></extra>`};};
+  const tr = [];
+  if (S.group!=='all') tr.push(mk('all',C.neutral,'All papers'));
+  tr.push(mk(S.group,S.group==='all'?C.c1:(S.group==='african_led'?C.c4:C.c2),GROUP_NAME[S.group][0].toUpperCase()+GROUP_NAME[S.group].slice(1)));
+  const gN = share(S.group,'P1').n;
+  const low = ['P7','P8','P9','P10'].map(c=>{const o=share(S.group,c);return pct(o.k,o.n);});
+  const t = gN>=MIN_N ? `Care, trials, social science and capacity each appeared in ${f1(Math.min(...low))}–${f1(Math.max(...low))}% of ${GROUP_NAME[S.group]}`
+                      : `Only ${gN} ${GROUP_NAME[S.group]} match these filters – too few to show shares`;
+  setTitle('h4t',t);
+  draw('c4',tr,layout({barmode:'group',bargap:.25,margin:{l:narrow()?130:240,r:16,t:30,b:40},showlegend:S.group!=='all',
+    xaxis:{range:[0,100],ticksuffix:'%',gridcolor:C.grid,zeroline:false,tickfont:{color:C.muted}},
+    yaxis:{automargin:true,tickfont:{size:12}},
+    shapes:[{type:'rect',xref:'paper',x0:0,x1:1,y0:1.5,y1:5.5,fillcolor:'rgba(254,165,0,.10)',line:{width:0},layer:'below'}]}),t);
+  $('cap4').textContent = `Source: Web of Science, CognosX keyword tags on titles, abstracts and keywords. n=${fmtN(gN)} ${GROUP_NAME[S.group]}, ${scopeTxt()}. Shaded: WHO priorities 7–10. A paper can match several priorities.`;
+}
+
+// ---------- downloads
+function downloads(){
+  const toCSV = rows => { const k=Object.keys(rows[0]); return [k.join(','),...rows.map(r=>k.map(x=>{const v=r[x]??'';return /[",\n]/.test(String(v))?`"${String(v).replace(/"/g,'""')}"`:v;}).join(','))].join('\n'); };
+  const files = [['findings.csv',FINDINGS_CSV,'Findings sheet'],
+    ['papers_by_year_topic.csv',toCSV(D.papers_by_year_topic),'Papers by year and topic'],
+    ['gender_by_year.csv',toCSV(D.gender_by_year),'Gender by year'],
+    ['gender_by_topic.csv',toCSV(D.gender_by_topic),'Gender by topic'],
+    ['funder_flow.csv',toCSV(D.funder_flow),'Funders'],
+    ['who_priorities.csv',toCSV(D.who_priorities),'WHO priorities']];
+  $('dl').innerHTML='';
+  files.forEach(([name,txt,label],i)=>{const b=document.createElement('button');b.type='button';b.className=i?'':'primary';b.textContent='⬇ '+label;
+    b.onclick=()=>{const u=URL.createObjectURL(new Blob([txt],{type:'text/csv'}));const a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),500);};
+    $('dl').appendChild(b);});
+  $('copycite').onclick=()=>{try{navigator.clipboard.writeText($('cite').innerText);$('copycite').textContent='Copied';}catch(e){}};
+}
+
+function render(){
+  const P = D.papers_by_year_topic.filter(r=>inYears(r)&&inTopic(r));
+  const G = D.gender_by_year.filter(inYears);
+  const W = D.who_priorities.filter(r=>r.group==='all'&&inYears(r)&&inTopic(r));
+  kpis(P,G,W); viewGender(); viewLocal(P); viewFunders(P); viewWHO(); viewGenderTopic();
+}
+fillControls(); downloads(); render();
+let lastN = narrow(), tmr; window.addEventListener('resize',()=>{clearTimeout(tmr); tmr=setTimeout(()=>{if(narrow()!==lastN){lastN=narrow(); render();}},200);});
+})();
+</script>
+<!--BODY_END-->
+</body>
+</html>

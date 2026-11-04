@@ -1,0 +1,484 @@
+year,topic,funder_country,last_region,papers
+2008,1,United States,North America,2
+2008,3,United States,Europe & Central Asia,1
+2008,5,Canada,North America,1
+2008,5,Other / unknown,North America,1
+2008,5,United States,North America,2
+2008,7,China,East Asia & Pacific,1
+2008,9,United States,North America,1
+2009,1,Other / unknown,Europe & Central Asia,1
+2009,1,United States,North America,1
+2009,2,European Union,Europe & Central Asia,1
+2009,2,Other / unknown,Europe & Central Asia,1
+2009,4,Other / unknown,Europe & Central Asia,1
+2009,4,United States,North America,1
+2009,5,Canada,North America,1
+2009,5,United States,North America,3
+2009,6,Africa,Sub-Saharan Africa,1
+2009,6,Germany,Europe & Central Asia,1
+2009,6,Japan,East Asia & Pacific,1
+2009,6,Other / unknown,North America,3
+2009,6,Other / unknown,Sub-Saharan Africa,1
+2009,6,United States,North America,3
+2009,6,United States,Unknown,1
+2009,8,European Union,Europe & Central Asia,1
+2009,8,Germany,Europe & Central Asia,1
+2009,9,United States,North America,1
+2010,0,United States,Unknown,1
+2010,1,European Union,Europe & Central Asia,1
+2010,1,Germany,Europe & Central Asia,1
+2010,1,United States,North America,1
+2010,2,Other / unknown,Europe & Central Asia,1
+2010,3,Japan,East Asia & Pacific,1
+2010,3,Other / unknown,North America,1
+2010,3,United States,North America,2
+2010,4,Canada,East Asia & Pacific,1
+2010,4,Canada,Europe & Central Asia,1
+2010,4,Japan,East Asia & Pacific,1
+2010,4,Other / unknown,Europe & Central Asia,1
+2010,4,United States,North America,1
+2010,5,Canada,North America,1
+2010,5,United States,North America,4
+2010,6,Germany,Europe & Central Asia,3
+2010,6,Japan,East Asia & Pacific,1
+2010,6,Japan,Unknown,1
+2010,6,Other / unknown,Europe & Central Asia,1
+2010,6,United States,Europe & Central Asia,1
+2010,6,United States,North America,4
+2010,7,Japan,East Asia & Pacific,1
+2010,7,United States,East Asia & Pacific,1
+2010,9,United States,North America,1
+2011,0,Other / unknown,North America,1
+2011,0,United States,North America,1
+2011,1,Other / unknown,North America,1
+2011,1,United States,North America,3
+2011,3,Other / unknown,Europe & Central Asia,1
+2011,3,Other / unknown,North America,6
+2011,3,United States,Europe & Central Asia,1
+2011,3,United States,North America,9
+2011,4,Africa,Europe & Central Asia,1
+2011,4,Canada,East Asia & Pacific,1
+2011,4,Canada,North America,1
+2011,4,European Union,Europe & Central Asia,1
+2011,4,Japan,East Asia & Pacific,1
+2011,4,Other / unknown,Europe & Central Asia,1
+2011,4,Other / unknown,North America,1
+2011,4,United States,East Asia & Pacific,1
+2011,4,United States,Europe & Central Asia,1
+2011,4,United States,North America,2
+2011,5,Canada,North America,1
+2011,5,Japan,East Asia & Pacific,1
+2011,5,United States,East Asia & Pacific,1
+2011,5,United States,North America,2
+2011,5,United States,Unknown,2
+2011,6,Germany,Europe & Central Asia,4
+2011,6,Other / unknown,Europe & Central Asia,2
+2011,6,Other / unknown,North America,1
+2011,6,United States,East Asia & Pacific,1
+2011,6,United States,Europe & Central Asia,2
+2011,6,United States,North America,2
+2011,7,Other / unknown,Europe & Central Asia,1
+2011,7,United States,North America,1
+2011,8,Germany,Europe & Central Asia,1
+2011,8,Other / unknown,Europe & Central Asia,1
+2011,8,United States,North America,1
+2011,9,Other / unknown,North America,1
+2011,9,United States,North America,4
+2012,0,United States,North America,1
+2012,1,European Union,Europe & Central Asia,1
+2012,1,United Kingdom,Sub-Saharan Africa,1
+2012,1,United States,North America,1
+2012,2,European Union,Europe & Central Asia,1
+2012,2,Other / unknown,Europe & Central Asia,2
+2012,2,United Kingdom,Europe & Central Asia,1
+2012,2,United States,Europe & Central Asia,1
+2012,3,Germany,Europe & Central Asia,1
+2012,3,Japan,East Asia & Pacific,1
+2012,3,Japan,Unknown,1
+2012,3,Other / unknown,Europe & Central Asia,1
+2012,3,Other / unknown,North America,3
+2012,3,United States,East Asia & Pacific,1
+2012,3,United States,North America,8
+2012,5,United States,Europe & Central Asia,1
+2012,5,United States,North America,5
+2012,6,Canada,North America,1
+2012,6,Germany,Europe & Central Asia,1
+2012,6,Other / unknown,North America,2
+2012,6,United States,North America,3
+2012,7,United States,Unknown,1
+2012,8,Germany,Europe & Central Asia,1
+2012,8,Japan,Europe & Central Asia,1
+2012,8,United States,Europe & Central Asia,2
+2012,9,United States,North America,6
+2012,9,United States,Unknown,1
+2013,0,Germany,Europe & Central Asia,1
+2013,1,United States,North America,1
+2013,3,Germany,Europe & Central Asia,1
+2013,3,Japan,East Asia & Pacific,1
+2013,3,Other / unknown,North America,3
+2013,3,United States,North America,3
+2013,4,China,Europe & Central Asia,1
+2013,4,Germany,Europe & Central Asia,1
+2013,4,Other / unknown,Europe & Central Asia,1
+2013,4,United States,North America,1
+2013,5,Other / unknown,North America,2
+2013,5,United States,North America,2
+2013,6,Canada,North America,1
+2013,6,Germany,Europe & Central Asia,1
+2013,6,United States,North America,1
+2013,7,Japan,East Asia & Pacific,1
+2013,7,United States,East Asia & Pacific,1
+2013,7,United States,Unknown,1
+2013,8,United States,North America,1
+2013,9,United States,Europe & Central Asia,1
+2014,0,United States,North America,1
+2014,2,Africa,East Asia & Pacific,1
+2014,2,European Union,Europe & Central Asia,1
+2014,2,Japan,East Asia & Pacific,1
+2014,2,Other / unknown,East Asia & Pacific,1
+2014,2,Other / unknown,Europe & Central Asia,1
+2014,2,United Kingdom,East Asia & Pacific,1
+2014,2,United States,East Asia & Pacific,1
+2014,3,China,North America,1
+2014,3,Germany,Europe & Central Asia,1
+2014,3,Japan,East Asia & Pacific,1
+2014,3,United States,North America,2
+2014,4,Other / unknown,East Asia & Pacific,1
+2014,4,Other / unknown,Europe & Central Asia,1
+2014,4,Other / unknown,North America,2
+2014,4,United States,East Asia & Pacific,1
+2014,4,United States,North America,3
+2014,5,Canada,North America,2
+2014,5,Other / unknown,North America,2
+2014,5,United States,North America,5
+2014,6,China,East Asia & Pacific,1
+2014,6,European Union,Europe & Central Asia,1
+2014,6,Germany,Europe & Central Asia,1
+2014,6,Other / unknown,Europe & Central Asia,1
+2014,6,Other / unknown,North America,1
+2014,6,United States,North America,3
+2014,7,Other / unknown,North America,1
+2014,7,United States,North America,2
+2014,8,Japan,North America,1
+2014,8,Other / unknown,North America,3
+2014,8,United States,North America,4
+2014,9,United States,North America,1
+2015,0,United States,North America,1
+2015,0,United States,Unknown,1
+2015,1,Africa,Sub-Saharan Africa,1
+2015,1,Other / unknown,East Asia & Pacific,2
+2015,1,Other / unknown,North America,1
+2015,1,United States,East Asia & Pacific,1
+2015,1,United States,North America,2
+2015,1,United States,Unknown,1
+2015,2,Germany,Europe & Central Asia,1
+2015,2,Other / unknown,Europe & Central Asia,1
+2015,2,Other / unknown,North America,1
+2015,2,United Kingdom,Europe & Central Asia,1
+2015,2,United States,Europe & Central Asia,1
+2015,3,United States,North America,2
+2015,4,Africa,North America,1
+2015,4,Other / unknown,Europe & Central Asia,2
+2015,4,Other / unknown,North America,2
+2015,4,United States,North America,4
+2015,5,Canada,North America,1
+2015,5,Other / unknown,North America,4
+2015,5,United States,North America,14
+2015,5,United States,Unknown,1
+2015,6,Germany,Europe & Central Asia,1
+2015,6,United States,North America,3
+2015,7,Japan,East Asia & Pacific,1
+2015,7,Japan,North America,3
+2015,7,Other / unknown,East Asia & Pacific,1
+2015,7,Other / unknown,North America,1
+2015,7,United States,North America,4
+2015,8,China,East Asia & Pacific,1
+2015,9,Africa,Europe & Central Asia,1
+2015,9,European Union,Europe & Central Asia,1
+2015,9,Germany,Europe & Central Asia,1
+2015,9,Other / unknown,Europe & Central Asia,1
+2015,9,Other / unknown,North America,3
+2015,9,Other / unknown,Unknown,1
+2015,9,United States,Europe & Central Asia,1
+2015,9,United States,North America,5
+2016,0,Germany,Europe & Central Asia,1
+2016,0,Other / unknown,Europe & Central Asia,1
+2016,0,United States,North America,1
+2016,1,United States,North America,1
+2016,2,Other / unknown,Europe & Central Asia,1
+2016,2,Other / unknown,Sub-Saharan Africa,1
+2016,2,United Kingdom,Europe & Central Asia,1
+2016,2,United Kingdom,North America,1
+2016,3,China,East Asia & Pacific,1
+2016,3,Germany,Europe & Central Asia,2
+2016,3,Japan,East Asia & Pacific,1
+2016,3,Other / unknown,East Asia & Pacific,2
+2016,3,Other / unknown,Europe & Central Asia,1
+2016,3,Other / unknown,North America,2
+2016,3,United Kingdom,East Asia & Pacific,1
+2016,3,United States,North America,3
+2016,4,European Union,Europe & Central Asia,1
+2016,4,United States,North America,3
+2016,5,European Union,Europe & Central Asia,1
+2016,5,Germany,Europe & Central Asia,1
+2016,5,Other / unknown,North America,1
+2016,5,United States,North America,3
+2016,6,Japan,North America,1
+2016,6,Other / unknown,North America,2
+2016,6,United States,North America,5
+2016,7,European Union,North America,1
+2016,7,Other / unknown,North America,1
+2016,7,United Kingdom,Europe & Central Asia,1
+2016,7,United States,North America,5
+2016,9,Other / unknown,Unknown,1
+2016,9,United States,North America,3
+2017,0,United States,North America,3
+2017,1,United States,North America,4
+2017,2,European Union,Europe & Central Asia,2
+2017,2,Other / unknown,Europe & Central Asia,3
+2017,2,Other / unknown,Sub-Saharan Africa,1
+2017,2,United Kingdom,Europe & Central Asia,2
+2017,2,United States,Europe & Central Asia,1
+2017,2,United States,Sub-Saharan Africa,1
+2017,3,Germany,Europe & Central Asia,1
+2017,3,Other / unknown,Europe & Central Asia,2
+2017,3,Other / unknown,North America,2
+2017,3,United Kingdom,North America,1
+2017,3,United States,North America,3
+2017,4,Africa,Sub-Saharan Africa,1
+2017,4,European Union,Europe & Central Asia,1
+2017,4,Other / unknown,Europe & Central Asia,1
+2017,4,Other / unknown,Sub-Saharan Africa,1
+2017,4,United States,North America,1
+2017,4,United States,Sub-Saharan Africa,1
+2017,5,Canada,North America,2
+2017,5,China,East Asia & Pacific,3
+2017,5,European Union,Europe & Central Asia,1
+2017,5,Other / unknown,Europe & Central Asia,1
+2017,5,Other / unknown,North America,2
+2017,5,United States,North America,5
+2017,6,China,North America,1
+2017,6,European Union,Europe & Central Asia,1
+2017,6,Other / unknown,Europe & Central Asia,1
+2017,6,Other / unknown,North America,2
+2017,6,United States,North America,5
+2017,7,China,North America,1
+2017,7,Germany,Europe & Central Asia,1
+2017,7,Japan,North America,1
+2017,7,Other / unknown,Europe & Central Asia,1
+2017,7,Other / unknown,North America,3
+2017,7,United States,North America,4
+2017,8,China,East Asia & Pacific,2
+2017,8,Other / unknown,East Asia & Pacific,2
+2017,8,Other / unknown,Europe & Central Asia,1
+2017,8,Other / unknown,North America,1
+2017,8,United States,East Asia & Pacific,1
+2017,8,United States,North America,2
+2018,0,Germany,Europe & Central Asia,1
+2018,0,Other / unknown,North America,2
+2018,0,United States,North America,3
+2018,1,Africa,Sub-Saharan Africa,2
+2018,1,Japan,East Asia & Pacific,1
+2018,1,Other / unknown,Sub-Saharan Africa,2
+2018,1,United States,North America,2
+2018,1,United States,Sub-Saharan Africa,1
+2018,2,Other / unknown,Europe & Central Asia,1
+2018,2,United Kingdom,Europe & Central Asia,1
+2018,3,China,East Asia & Pacific,3
+2018,3,Other / unknown,Europe & Central Asia,1
+2018,3,Other / unknown,North America,3
+2018,3,United States,North America,4
+2018,5,Canada,North America,4
+2018,5,China,North America,2
+2018,5,Japan,East Asia & Pacific,1
+2018,5,Other / unknown,Europe & Central Asia,1
+2018,5,Other / unknown,North America,2
+2018,5,United States,East Asia & Pacific,2
+2018,5,United States,Europe & Central Asia,1
+2018,5,United States,North America,12
+2018,6,Germany,Europe & Central Asia,1
+2018,6,Other / unknown,Europe & Central Asia,1
+2018,6,United States,Unknown,1
+2018,7,Canada,Sub-Saharan Africa,1
+2018,7,European Union,Sub-Saharan Africa,1
+2018,7,Germany,North America,1
+2018,7,Other / unknown,North America,2
+2018,7,Other / unknown,Sub-Saharan Africa,1
+2018,7,United States,North America,5
+2018,8,Other / unknown,North America,1
+2018,8,United States,North America,3
+2018,9,Canada,North America,2
+2018,9,Canada,Sub-Saharan Africa,1
+2018,9,China,North America,2
+2018,9,Other / unknown,North America,1
+2018,9,United Kingdom,Sub-Saharan Africa,1
+2018,9,United States,North America,5
+2019,0,Germany,Europe & Central Asia,2
+2019,0,Japan,Europe & Central Asia,1
+2019,0,Other / unknown,Europe & Central Asia,1
+2019,1,Japan,East Asia & Pacific,1
+2019,1,Other / unknown,North America,1
+2019,1,United States,North America,3
+2019,2,Africa,North America,1
+2019,2,Africa,Sub-Saharan Africa,1
+2019,2,Other / unknown,North America,2
+2019,2,United Kingdom,North America,1
+2019,2,United States,North America,1
+2019,3,Canada,North America,1
+2019,3,China,East Asia & Pacific,1
+2019,3,Germany,Europe & Central Asia,1
+2019,3,Other / unknown,East Asia & Pacific,1
+2019,3,Other / unknown,Europe & Central Asia,2
+2019,3,Other / unknown,North America,2
+2019,3,United States,Europe & Central Asia,1
+2019,3,United States,North America,2
+2019,4,European Union,Europe & Central Asia,1
+2019,4,Other / unknown,Europe & Central Asia,2
+2019,4,Other / unknown,North America,2
+2019,4,Other / unknown,Sub-Saharan Africa,1
+2019,4,United States,North America,1
+2019,4,United States,Sub-Saharan Africa,1
+2019,5,Canada,East Asia & Pacific,1
+2019,5,Germany,Europe & Central Asia,1
+2019,5,Other / unknown,North America,1
+2019,5,United Kingdom,East Asia & Pacific,1
+2019,5,United States,North America,3
+2019,6,Germany,Europe & Central Asia,1
+2019,6,Other / unknown,East Asia & Pacific,1
+2019,6,Other / unknown,Europe & Central Asia,1
+2019,6,Other / unknown,North America,1
+2019,6,United Kingdom,East Asia & Pacific,1
+2019,6,United States,North America,3
+2019,7,Canada,North America,2
+2019,7,United Kingdom,Unknown,1
+2019,7,United States,North America,4
+2019,7,United States,Unknown,1
+2019,8,United States,North America,1
+2019,9,European Union,Europe & Central Asia,1
+2019,9,Other / unknown,Europe & Central Asia,1
+2019,9,United Kingdom,Europe & Central Asia,1
+2019,9,United States,North America,2
+2020,1,Africa,East Asia & Pacific,1
+2020,1,United States,East Asia & Pacific,1
+2020,1,United States,North America,2
+2020,1,United States,Sub-Saharan Africa,1
+2020,2,Other / unknown,Europe & Central Asia,1
+2020,2,Other / unknown,North America,1
+2020,2,United States,North America,4
+2020,2,United States,Sub-Saharan Africa,1
+2020,3,China,East Asia & Pacific,3
+2020,3,Germany,Europe & Central Asia,1
+2020,3,Japan,East Asia & Pacific,3
+2020,3,Other / unknown,East Asia & Pacific,5
+2020,3,Other / unknown,Europe & Central Asia,1
+2020,3,Other / unknown,North America,1
+2020,3,United States,East Asia & Pacific,3
+2020,3,United States,North America,5
+2020,4,Germany,Europe & Central Asia,1
+2020,4,United States,Europe & Central Asia,1
+2020,5,Japan,East Asia & Pacific,1
+2020,5,Other / unknown,North America,2
+2020,5,United Kingdom,Europe & Central Asia,1
+2020,5,United States,North America,5
+2020,6,European Union,Europe & Central Asia,1
+2020,6,Other / unknown,North America,2
+2020,6,United Kingdom,Europe & Central Asia,1
+2020,6,United Kingdom,North America,1
+2020,6,United States,North America,4
+2020,7,Germany,North America,1
+2020,7,Other / unknown,Europe & Central Asia,2
+2020,7,Other / unknown,North America,1
+2020,7,United States,Europe & Central Asia,1
+2020,7,United States,North America,3
+2020,8,United States,North America,1
+2020,9,Canada,North America,1
+2020,9,China,East Asia & Pacific,1
+2020,9,Other / unknown,Europe & Central Asia,1
+2020,9,United States,Europe & Central Asia,1
+2020,9,United States,North America,2
+2021,0,Canada,North America,1
+2021,1,Africa,Sub-Saharan Africa,1
+2021,1,Germany,Europe & Central Asia,1
+2021,1,Japan,East Asia & Pacific,1
+2021,1,Other / unknown,Europe & Central Asia,1
+2021,1,Other / unknown,North America,2
+2021,1,Other / unknown,Sub-Saharan Africa,1
+2021,1,United States,North America,4
+2021,1,United States,Sub-Saharan Africa,1
+2021,2,Africa,North America,1
+2021,2,Africa,Sub-Saharan Africa,1
+2021,2,Other / unknown,East Asia & Pacific,1
+2021,2,Other / unknown,Latin America & Caribbean,1
+2021,2,Other / unknown,Middle East & North Africa,1
+2021,2,Other / unknown,North America,3
+2021,2,Other / unknown,Sub-Saharan Africa,1
+2021,2,United Kingdom,East Asia & Pacific,1
+2021,2,United States,North America,3
+2021,2,United States,Sub-Saharan Africa,2
+2021,3,Japan,East Asia & Pacific,1
+2021,3,Other / unknown,Europe & Central Asia,1
+2021,3,Other / unknown,North America,4
+2021,3,United States,North America,4
+2021,4,China,East Asia & Pacific,2
+2021,4,European Union,Europe & Central Asia,1
+2021,4,Other / unknown,East Asia & Pacific,2
+2021,4,Other / unknown,Europe & Central Asia,1
+2021,4,Other / unknown,North America,1
+2021,4,Other / unknown,South Asia,1
+2021,4,United States,North America,3
+2021,5,Africa,North America,1
+2021,5,Other / unknown,Europe & Central Asia,1
+2021,5,Other / unknown,North America,2
+2021,5,United States,North America,8
+2021,6,Other / unknown,North America,3
+2021,6,United Kingdom,North America,3
+2021,6,United States,North America,4
+2021,8,Other / unknown,North America,1
+2021,8,United States,North America,2
+2022,0,Other / unknown,Europe & Central Asia,1
+2022,0,United Kingdom,Europe & Central Asia,1
+2022,1,Canada,North America,1
+2022,1,Other / unknown,Europe & Central Asia,1
+2022,1,Other / unknown,North America,1
+2022,2,China,Europe & Central Asia,1
+2022,2,Germany,Europe & Central Asia,1
+2022,2,Other / unknown,East Asia & Pacific,1
+2022,2,Other / unknown,Europe & Central Asia,1
+2022,2,Other / unknown,North America,2
+2022,2,United States,North America,2
+2022,3,Other / unknown,Europe & Central Asia,1
+2022,3,Other / unknown,North America,1
+2022,3,Other / unknown,Unknown,1
+2022,3,United States,North America,4
+2022,4,Africa,North America,1
+2022,4,Africa,Sub-Saharan Africa,1
+2022,4,Other / unknown,Europe & Central Asia,1
+2022,4,Other / unknown,North America,1
+2022,4,Other / unknown,South Asia,1
+2022,4,United States,North America,2
+2022,4,United States,Sub-Saharan Africa,1
+2022,5,Canada,North America,1
+2022,5,European Union,Sub-Saharan Africa,1
+2022,5,Germany,Sub-Saharan Africa,1
+2022,5,Other / unknown,Europe & Central Asia,1
+2022,5,Other / unknown,Middle East & North Africa,1
+2022,5,Other / unknown,North America,3
+2022,5,Other / unknown,Sub-Saharan Africa,1
+2022,5,United Kingdom,Europe & Central Asia,1
+2022,5,United Kingdom,Sub-Saharan Africa,1
+2022,5,United States,Europe & Central Asia,3
+2022,5,United States,North America,8
+2022,6,China,East Asia & Pacific,1
+2022,6,United States,North America,1
+2022,7,China,East Asia & Pacific,1
+2022,7,Other / unknown,Europe & Central Asia,1
+2022,7,Other / unknown,North America,2
+2022,7,United States,North America,3
+2022,8,Japan,East Asia & Pacific,3
+2022,8,Other / unknown,East Asia & Pacific,3
+2022,8,Other / unknown,North America,1
+2022,8,United States,North America,1
+2022,9,China,East Asia & Pacific,1
+2022,9,Other / unknown,North America,1
+2022,9,United States,North America,1
+2022,9,United States,Unknown,1

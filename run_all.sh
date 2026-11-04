@@ -10,4 +10,5 @@ python s04_analysis.py
 python s05_figures.py
 python s06_export_public.py
 python s07_sensitivity.py
+python s08_explorer_data.py
 echo "Done. See outputs/tables and outputs/figures."

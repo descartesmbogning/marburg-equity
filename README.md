@@ -42,6 +42,7 @@ pip install -r requirements.txt
 | 5 | `src/s05_figures.py` | Four main and three supplementary figures (PNG 300 dpi + PDF) |
 | 6 | `src/s06_export_public.py` | De-identified public dataset |
 | 7 | `src/s07_sensitivity.py` | Sensitivity analyses of gender inference |
+| 8 | `src/s08_explorer_data.py` | Aggregate tables for the interactive explorer (`release/explorer`, live at [cognosx.ca](https://cognosx.ca/dashboards/marburg-equity.html)) |
 
 ## Data
 
