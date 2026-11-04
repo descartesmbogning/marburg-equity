@@ -11,3 +11,4 @@ submission/
 *.zip
 release/explorer/preview.html
 release/explorer/plotly.min.js
+medrxiv/
