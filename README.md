@@ -70,4 +70,4 @@ Code: MIT. Derived data, tables and figures: CC BY 4.0.
 
 ## Citation
 
-Mbogning Fonkou MD, Bain LE, Bragazzi NL, Kong JD. *Who leads Marburg virus research? Gender, geography and funding in authorship, 2008–2023.* Preprint, 2026.
+Mbogning Fonkou MD. *Who leads Marburg virus research? Gender, geography and funding in authorship, 2008–2023.* Preprint, 2026.
